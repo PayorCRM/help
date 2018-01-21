@@ -1,14 +1,10 @@
 # Starting up
 
-
-
 ### Visiting the app login page
 
 The app is available for use from all over the world at our domain [https://app.payorcrm.com/\#!/login ](https://app.payorcrm.com/#!/login)
 
 Clicking on the above link will open up the login page as shown below
-
-
 
 ![](/assets/loginscreen.PNG)
 
@@ -26,8 +22,6 @@ If you are a first time user , you can register on to the app through the follow
    3. After pressing on "Register" , Click on the "Login tab" 
    4. Enter yor login Credentials
    5. You will be automatically taken to the PayorCRM dashboard screen
-
-
 
 
 
