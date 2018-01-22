@@ -6,11 +6,7 @@ To setup payments do the following steps
 
 ![](/assets/settings.JPG)
 
-
-
 * Select Account settings from the tab
-
-
 
 ![](/assets/Account settings.JPG)
 
@@ -19,33 +15,22 @@ To setup payments do the following steps
   * Pay by Credit card
   * Pay using Bank to Bank transfer methods
 
+Below are the list of gateways & Banks we support for a demo account under each of these categories
 
 
 
+Pay by Credit card
 
-Below are the list of gateways & Banks we support for a demo account
+1. Paypal \(world wide\)
+2. Quickbooks payments \(you should already have an account with Quickbooks payments to be able to use this\)
 
-Credit card Gateways 
-
-1. PayU \(india\)
-2. Paypal \(world wide\)
-3. Quickbooks payments \(you should already have an account with Quickbooks payments to be able to use this\)
-
-Banks
+Pay using Bank to Bank transfer methods
 
 1. All banks in India through internet banking \(PayU\)
 2. All US banks \( US ACH payments\)
-3. Quickbooks payments
+3. Quickbooks payments \(US ACH payments\)
 
 We support other processors and banks other than the above listed for paid accounts.Please contact us \(solutions@payorcrm.com\) for an upgrade .
-
-
-
-
-
-
-
-
 
 ### Setting credit card payments {#credit-card-payments}
 
