@@ -9,21 +9,17 @@ For eg :
 
 
 
-
-
-
-
-
-
 Step 1 : Create an email template
 
 Initially you will have to come up with the mail template for each of these reminders.
 
 ![](http://www.payorcrm.com/wp-content/uploads/2018/01/Email-template.png "Email template screen allows you to define templates for various reminder emails")
 
-Click on create a new template where you could define your template look and feel and text content.
+_Click on create a new template where you could define your template look and feel and text content._
 
 Make sure you add the variable field {invoice\_list} .This defined the position where the table with the list of invoices would go .The table would contain the fields invoice number ,amount ,due date .
+
+
 
 
 
@@ -33,7 +29,7 @@ The rules define which customers will receive the emails and the invoices that w
 
 ![](http://www.payorcrm.com/wp-content/uploads/2018/01/Email-Rule.png)
 
-Email rules to define the rules based on which the email will be sent
+_Email rules to define the rules based on which the email will be sent_
 
 In the above example as you can see the rule says that PayorCRM needs to send the customer Sally invoices with amount greater than 10000 on a daily basis using the email template “Invoice reminder” \(created in the previous screen\).If there are no invoices with amount greater than 10000 , the email reminder wont be sent.
 
