@@ -1,10 +1,6 @@
+# Setting up Invoice Reminders
 
-
-
-
-**Automating your collections**
-
-To automate your collections process first you will need to come up with you collections strategy .Are there certain customers / invoice amounts / dates  for which you want PayorCRM to send automated mail reminders
+To automate your collections process first you will need to come up with you collections strategy .Are there certain customers / invoice amounts / dates  for which you want PayorCRM to send automated mail reminders
 
 For eg :
 
@@ -17,11 +13,9 @@ Initially you will have to come up with the mail template for each of these remi
 
 ![](http://www.payorcrm.com/wp-content/uploads/2018/01/Email-template.png "Email template screen allows you to define templates for various reminder emails")
 
-
-
 Click on create a new template where you could define your template look and feel and text content.
 
-Make sure you add the variable field {invoice\_list} .This defined the position where the table with the list of invoices would go .The table would contain the fields invoice number ,amount ,due date .
+Make sure you add the variable field {invoice\_list} .This defined the position where the table with the list of invoices would go .The table would contain the fields invoice number ,amount ,due date .
 
 Step 2 : Define the rule
 
@@ -31,5 +25,5 @@ The rules define which customers will receive the emails and the invoices that w
 
 Email rules to define the rules based on which the email will be sent
 
-In the above example as you can see the rule says that PayorCRM needs to send the customer Sally invoices with amount greater than 10000 on a daily basis using the email template “Invoice reminder” \(created in the previous screen\).If there are no invoices with amount greater than 10000 , the email reminder wont be sent.
+In the above example as you can see the rule says that PayorCRM needs to send the customer Sally invoices with amount greater than 10000 on a daily basis using the email template “Invoice reminder” \(created in the previous screen\).If there are no invoices with amount greater than 10000 , the email reminder wont be sent.
 
