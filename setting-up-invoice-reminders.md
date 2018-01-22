@@ -1,8 +1,6 @@
 # Setting up Invoice Reminders based on rules
 
-To automate your collections process first you will need to come up with a collections strategy .One of the ways of automating your collections process is by automating all your invoice reminders based on your business requirements&gt;
-
-
+One of the ways of automating your collections process is by automating all your invoice reminders based on your business requirements.To automate your collections process first you will need to come up with a collections strategy .
 
 Are there certain customers / invoice amounts / dates  for which you want PayorCRM to send automated mail reminders?
 
@@ -10,6 +8,7 @@ For eg :
 
 * You might want to send a mail with a certain content to all customers whose invoices will be due in the next 5 dates
 * You might want to send a mail with a certain content to all customers every 5 days who has invoices with Amount greater than 5000 dollars
+* You might want to send weekly reminders to customers who invoices are overdue by 90 days
 
 ### Step 1 : Create an email template
 
