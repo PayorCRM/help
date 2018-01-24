@@ -32,7 +32,7 @@ We support other processors and banks other than the above listed for paid accou
 
 ### Setting credit card payments {#credit-card-payments}
 
-##### 1.Setting up paypal 
+##### 1.Setting up paypal
 
 To accept credit card payments through Paypal you should first create a paypal account for your business \( [link to paypal page](https://www.paypal.com/us/webapps/mpp/how-paypal-works/how-to-setup-account) \)
 
@@ -40,9 +40,11 @@ To accept credit card payments through Paypal you should first create a paypal a
 
 Click on profile and setttings to find your MID
 
-![](/assets/Paypal MID.png)
+![](/assets/Paypal MID.png) To get a client ID and secret, use the developer dashboard to 
 
+[create a PayPal app](https://developer.paypal.com/docs/api/overview/#create-a-paypal-app)
 
+.
 
 ### Setting up bank to bank transfer payments
 
