@@ -10,7 +10,7 @@ To setup payments do the following steps
 
 ![](/assets/Account settings.JPG)
 
-* You can see three different methods in which a customer of yours can pay you
+* You can see three different methods through which a customer of yours can pay you
   * Pay by Multiple
   * Pay by Credit card
   * Pay using Bank to Bank transfer methods
@@ -40,7 +40,7 @@ To accept credit card payments through Paypal you should first create a paypal a
 
 Click on profile and setttings to find your MID
 
-![](/assets/Paypal MID.png) To get a client ID and secret, use the developer dashboard to 
+![](/assets/Paypal MID.png) To get a client ID and secret, use the developer dashboard to
 
 [create a PayPal app](https://developer.paypal.com/docs/api/overview/#create-a-paypal-app)
 
