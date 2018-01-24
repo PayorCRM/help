@@ -17,8 +17,6 @@ To setup payments do the following steps
 
 Below are the list of gateways & Banks we support for a demo account under each of these categories
 
-
-
 Pay by Credit card
 
 1. Paypal \(world wide\)
@@ -33,6 +31,18 @@ Pay using Bank to Bank transfer methods
 We support other processors and banks other than the above listed for paid accounts.Please contact us \(solutions@payorcrm.com\) for an upgrade .
 
 ### Setting credit card payments {#credit-card-payments}
+
+##### 1.Setting up paypal 
+
+To accept credit card payments through Paypal you should first create a paypal account for your business \( [link to paypal page](https://www.paypal.com/us/webapps/mpp/how-paypal-works/how-to-setup-account) \)
+
+![](/assets/import.png)
+
+Click on profile and setttings to find your MID
+
+![](/assets/Paypal MID.png)
+
+
 
 ### Setting up bank to bank transfer payments
 
