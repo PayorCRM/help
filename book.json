@@ -1,0 +1,13 @@
+{
+    "plugins": ["easyseo-7dtime","sitemap"],
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "https://help.payorcrm.com/"
+        }
+    }
+
+
+
+
+
+  }
