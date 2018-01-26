@@ -28,4 +28,11 @@ If you are a first time user , you can register on to the app through the follow
 
 
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+
 
