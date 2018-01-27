@@ -6,7 +6,7 @@
         },
 
         "insert-logo": {
-            "url": "https://help.payorcrm.com/assets/logo.jpg"
+            "url": "/assets/logo.jpg"
         },
         "disqus": {
             "shortName": "Payorcrm"
