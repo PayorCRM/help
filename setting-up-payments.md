@@ -57,21 +57,15 @@ You could  accept payments directly to your bank account by using the following 
 
 Quickbooks in US provides the ability to accept payments.By integrating with Quickbooks to PayorCRM\( logging in using your Quickbooks account to PayorCRM\) . you will be automatically able to accept payments directly .
 
-
-
 Details about Quickbooks payments. See [link ](https://quickbooks.intuit.com/payments/)
 
 ##### 2.US ACH services provided by banks
 
 Almost all US bank provide you the ability to accept payments directly to your bank account.To start accepting payments through this mode you would need to contact your Account Manager to set it up for you.
 
-Please contact _solutions@payorCRM.com_ if you need help through the setup
+Please contact _solutions@payorCRM.com_ if you need help through the setup.The below screenshot shows all the configuration information that needs to be filled to set this up
 
 
 
-
-
-
-
-
+![](/assets/US ACH setup.png)
 
