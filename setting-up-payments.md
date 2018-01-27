@@ -48,6 +48,12 @@ Click on profile and setttings to find your MID
 
 ### Setting up bank to bank transfer payments
 
+
+
+You could  accept payments directly to your bank account by using the following methods
+
+* Quic
+
 ### 
 
 
