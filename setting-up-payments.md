@@ -103,7 +103,5 @@ PNC bank - [https://www.pnc.com/en/corporate-and-institutional/treasury-manageme
 
 US bank - [https://www.usbank.com/small-business/making-payments/singlepoint-essentials-ach.html](https://www.usbank.com/small-business/making-payments/singlepoint-essentials-ach.html)
 
-JP Morgan
-
-
+JP Morgan - [https://www.jpmorgan.com/tss/General/Automated\_Clearing\_House/1155043013622](https://www.jpmorgan.com/tss/General/Automated_Clearing_House/1155043013622)
 
