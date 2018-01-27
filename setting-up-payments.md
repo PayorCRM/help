@@ -48,13 +48,16 @@ Click on profile and setttings to find your MID
 
 ### Setting up bank to bank transfer payments
 
-
-
 You could  accept payments directly to your bank account by using the following methods
 
-* Quic
+* Quickbooks payments \(US only \)
+* US ACH services provided by banks 
 
-### 
+
+
+##### 1.Quickbook payments
+
+Quickbooks in US provides the ability to accept payments.By integrating with Quickbooks to PayorCRM\( logging in using your Quickbooks account to PayorCRM\) . you will be automatically able to accept payments directly .
 
 
 
