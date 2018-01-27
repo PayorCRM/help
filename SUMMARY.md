@@ -6,4 +6,5 @@
 * [Setting up Invoice reminders](setting-up-invoice-reminders.md)
 * [Setting up Auto-debit](setting-up-auto-debit.md)
 * [Creating Advanced Rules](creating-rules.md)
+* [API integration](api-integration.md)
 
