@@ -1,5 +1,5 @@
 {
-    "plugins": ["easyseo-7dtime","sitemap","insert-logo"],
+    "plugins": ["easyseo-7dtime","sitemap","insert-logo","disqus"],
     "pluginsConfig": {
         "sitemap": {
             "hostname": "https://help.payorcrm.com/"
@@ -7,6 +7,9 @@
 
         "insert-logo": {
             "url": "https://help.payorcrm.com/assets/PayorCRM01.jpg"
+        },
+        "disqus": {
+            "shortName": "PayorCRM"
         }
     }
 
