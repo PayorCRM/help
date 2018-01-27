@@ -3,7 +3,7 @@
 To setup payments do the following steps
 
 * Click on the settings button in the menu
-
+* 
 ![](/assets/settings.JPG)
 
 * Select Account settings from the tab
