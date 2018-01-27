@@ -5,9 +5,6 @@
             "hostname": "https://help.payorcrm.com/"
         },
 
-        "insert-logo": {
-            "url": "/assets/logo.jpg"
-        },
         "disqus": {
             "shortName": "Payorcrm"
         }
