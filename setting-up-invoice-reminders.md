@@ -4,7 +4,7 @@ One of the ways of automating your collections process is by automating all your
 
 To come up with Invoice reminder rules you may have to ask the below question to yourself
 
-Are there certain customers / invoice amounts / dates  for which you want PayorCRM to send automated mail reminders? These may be based on your past experiences and on the criticality of those invoices. 
+Are there certain customers / invoice amounts / dates  for which you want PayorCRM to send automated mail reminders? These may be based on your past experiences or on the criticality of those invoices or any other criteria you have. 
 
 For eg :
 
