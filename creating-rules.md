@@ -4,7 +4,7 @@ The rule creator under different Collections tab allows advanced rules to be cre
 
 ![](/assets/rules.png)
 
-1. AND / OR operator - The 'AND' , 'OR" buttons allows you to define whether the individual rules or the individual groups would be AND ed or OR ed .In the above screen shot the rule will be run only if Invoice amount is greater than 1000 AND Customer Number is equal to 21312 AND the Rule group provides the result as True
+1. AND / OR operator - The 'AND' , 'OR" buttons allows you to define whether the individual rules or the individual groups would be AND ed or OR ed .In the above screenshot the rule will be run only if Invoice amount is greater than 1000 AND Customer Number is equal to 21312 AND the Rule group provides the result as True
 2. Add Rule / Add Group  -
 
    ```
@@ -22,6 +22,4 @@ The rule creator under different Collections tab allows advanced rules to be cre
    2. The Rule group  - A rule group allows you to add a group of rule definitions which can be AND ed or OR ed seperate from the other rules
 
 In the above example the above rule gets triggered when either the invoice due days equals 5 days or when the Invoice is over due by 10 days .The rule group will provide the result TRUE only when either of these are true.
-
-
 
