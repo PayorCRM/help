@@ -1,5 +1,5 @@
 {
-    "plugins": ["sitemap","insert-logo","disqus"],
+    "plugins": ["sitemap","insert-logo","disqus","meta"],
     "pluginsConfig": {
         "sitemap": {
             "hostname": "https://help.payorcrm.com/"
@@ -7,7 +7,13 @@
 
         "disqus": {
             "shortName": "Payorcrm"
+        },
+        "meta": {
+            "name": "google-site-verification",
+            "content": "GtJfXudhddax6I9HYzeaSw_Yfprl15R29DEndXNWpnw"
         }
+
+
     }
 
 
