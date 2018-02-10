@@ -5,7 +5,7 @@
             "hostname": "https://help.payorcrm.com/"
         },
          "insert-logo": {
-            "url": "https://help.payorcrm.com/assets/PayorCRM01.jpg"
+            "url": "https://help.payorcrm.com/assets/header.png"
         },
 
         "disqus": {
