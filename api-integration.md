@@ -10,13 +10,15 @@ Copy the above credentials to make API calls with PayorCRM endpoints
 
 Use obtained **API Key **and **API Secret **in header as **api\_key **and **api\_secret. **
 
-For Example: 
+For Example:
 
-```
-Content-Type:application/json
-api_secret: 6ed0a...3bad
-api_key: eyJ....MDk
-```
+
+    ```
+    Content-Type:application/json
+    api_secret: 6ed0a...3bad
+    api_key: eyJ....MDk
+    ```
+
 
 ## API Endpoints
 
@@ -131,7 +133,6 @@ For invoice available attributes are
   "status": {
     "type": "string"
   }
-
 ```
 
 An example Invoice payload body would be
