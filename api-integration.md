@@ -12,13 +12,11 @@ Use obtained **API Key **and **API Secret **in header as **api\_key **and **api\
 
 For Example:
 
-
-    ```
+```
     Content-Type:application/json
     api_secret: 6ed0a...3bad
     api_key: eyJ....MDk
-    ```
-
+```
 
 ## API Endpoints
 
@@ -26,7 +24,7 @@ For Example:
 
 Send a json post request to **/jsonApi/upload/invoices**. See below for attributes you can use.
 
-```
+```js
 POST /jsonApi/upload/invoices
 Content-Type:application/json
 [{
@@ -36,7 +34,7 @@ Content-Type:application/json
 
 For invoice available attributes are
 
-```
+```js
   "companyCode": {
     "type": "string"
   },
@@ -137,7 +135,7 @@ For invoice available attributes are
 
 An example Invoice payload body would be
 
-```
+```js
 {
     customerNumber: "23123123",
     invoiceNumber: "21321",
