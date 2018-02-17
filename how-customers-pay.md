@@ -26,7 +26,7 @@ Once the customer logs in they can make payments for invoice raised by you throu
 
 ![](/assets/Pay using saved card.PNG)
 
-Once payments are made they will appear in the payment transactions view for both you and your customers as shown below
+Once payments are made the paid invoices will appear in the payment transactions view for both you and your customers as shown below
 
 ![](/assets/payment transaction.PNG)
 
