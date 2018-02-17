@@ -7,4 +7,5 @@
 * [Setting up Auto-debit](setting-up-auto-debit.md)
 * [Creating Advanced Rules](creating-rules.md)
 * [API integration](api-integration.md)
+* [How customers pay you](how-customers-pay.md)
 
