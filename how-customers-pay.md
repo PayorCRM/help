@@ -18,11 +18,11 @@ Once the customer logs in they can make payments for invoice raised by you throu
 
 ![](/assets/pay by credit card.PNG)
 
-1. Pay using US ACH \( by entering US Bank account and routing numbers\)
+2.Pay using US ACH \( by entering US Bank account and routing numbers\)
 
 ![](/assets/New bank account.PNG)
 
-1. Pay using previously saved Bank account number using US ACH payment method
+3.Pay using previously saved Bank account number using US ACH payment method
 
 ![](/assets/Pay using saved card.PNG)
 
