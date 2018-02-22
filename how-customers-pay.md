@@ -16,7 +16,7 @@ Once the customer logs in they can make payments for invoice raised by you throu
 
 1. Pay using credit card
 
-{% youtube src="https://www.youtube.com/watch?v=uiaSF0WHc4Y" %}{% endyoutube %}
+{% youtube src="https://youtu.be/uiaSF0WHc4Y" %}{% endyoutube %}
 
 2.Pay using US ACH \( by entering US Bank account and routing numbers\)
 
