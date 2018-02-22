@@ -1,5 +1,5 @@
 {
-    "plugins": ["sitemap","insert-logo","disqus","meta"],
+    "plugins": ["sitemap","insert-logo","disqus","meta","youtube"],
     "pluginsConfig": {
         "sitemap": {
             "hostname": "https://help.payorcrm.com/"
