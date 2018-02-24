@@ -33,9 +33,7 @@ We support other processors and banks other than the above listed for paid accou
 
 ##### 1.Setting up paypal
 
-To accept credit card payments through Paypal you should first create a paypal account for your business 
-
-
+To accept credit card payments through Paypal you should first create a paypal account for your business
 
 .If you have created an account with
 
@@ -46,13 +44,20 @@ To accept credit card payments through Paypal you should first create a paypal a
 4. Provide required information, and click on Create App button
    ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//427e3800f.png)
 5. Switch to Live tab  \( Use only the credentials from live app on PayorCRM\)
- 
+
    ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//428efd80c.png)
+
 6. Look for your client id and security
 
 ![](/assets/paypal-securitykey.png)
 
 7. Copy and paste in the settings screen of PayorCRM
+
+
+
+![](/assets/payorcrm paypal security .PNG)
+
+
 
 ### Setting up bank to bank transfer payments
 
