@@ -33,17 +33,26 @@ We support other processors and banks other than the above listed for paid accou
 
 ##### 1.Setting up paypal
 
-To accept credit card payments through Paypal you should first create a paypal account for your business \( [link to paypal page](https://www.paypal.com/us/webapps/mpp/how-paypal-works/how-to-setup-account) \)
+To accept credit card payments through Paypal you should first create a paypal account for your business 
 
-![](/assets/import.png)
 
-Click on profile and setttings to find your MID
 
-![](/assets/Paypal MID.png) To get a client ID and secret, use the developer dashboard to
+.If you have created an account with
 
-[create a PayPal app](https://developer.paypal.com/docs/api/overview/#create-a-paypal-app)
+1. [PayPal](https://www.paypal.com/) , login, else Signup
+2. Go to [PayPal Developers](https://developer.paypal.com/)
+3. Scroll down and click on Create App button under REST API apps
+   ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//4269e5a11.png)
+4. Provide required information, and click on Create App button
+   ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//427e3800f.png)
+5. Switch to Live tab  \( Use only the credentials from live app on PayorCRM\)
+ 
+   ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//428efd80c.png)
+6. Look for your client id and security
 
-.
+![](/assets/paypal-securitykey.png)
+
+7. Copy and paste in the settings screen of PayorCRM
 
 ### Setting up bank to bank transfer payments
 
