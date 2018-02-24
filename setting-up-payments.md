@@ -47,7 +47,7 @@ To accept credit card payments through Paypal you should first create a paypal a
 
    ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//428efd80c.png)
 
-6. Look for your client id and security
+6. Look for your client id and Secret key
 
 ![](/assets/paypal-securitykey.png)
 
