@@ -51,13 +51,9 @@ To accept credit card payments through Paypal you should first create a paypal a
 
 ![](/assets/paypal-securitykey.png)
 
-7. Copy and paste in the settings screen of PayorCRM
-
-
+Copy and paste the above in the settings screen of PayorCRM and save
 
 ![](/assets/payorcrm paypal security .PNG)
-
-
 
 ### Setting up bank to bank transfer payments
 
