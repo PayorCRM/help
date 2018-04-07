@@ -20,12 +20,16 @@ Pay by Credit card
 
 1. Paypal \(world wide\)
 2. Quickbooks payments \(you should already have an account with Quickbooks payments to be able to use this\)
+3. Authorise.net
+4. JP Morgan Chase \(wepay\)
 
 Pay using Bank to Bank transfer methods
 
 1. All banks in India through internet banking \(PayU\)
 2. All US banks \( US ACH payments\)
 3. Quickbooks payments \(US ACH payments\)
+4. Authorise.net
+5. JP Morgan Chase \(wepay\)
 
 We support other processors and banks other than the above listed for paid accounts.Please contact us \(solutions@payorcrm.com\) for an upgrade .
 
