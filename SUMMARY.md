@@ -8,4 +8,5 @@
 * [Creating Advanced Rules](creating-rules.md)
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
+* [Customising email templates](customising-email-templates.md)
 
