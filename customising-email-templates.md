@@ -14,3 +14,7 @@ Email template editor allows you to add dynamic templates that are replaced with
 
 PayorCRM supports the following dynamic fields
 
+
+
+
+
