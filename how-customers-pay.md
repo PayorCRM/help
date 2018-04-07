@@ -6,7 +6,7 @@ This guide will show you various ways your customers can pay you through the pay
 
 Yes ! Your customers can now pay you right from their email inbox using their previously saved cards or bank account numbers
 
-To allow your customers to pay you right from their email inbox ensure that they add payment links to their reminder mails as shown below 
+To allow your customers to pay you right from their email inbox ensure that you add payment links to reminder mails as shown below 
 
 ![](/assets/Payment links.PNG)
 
