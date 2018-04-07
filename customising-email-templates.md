@@ -23,7 +23,5 @@ PayorCRM supports the following dynamic fields
 
 You can add the dynamic fields at any given location in the mail template body by selecting them from the drop down "Insert Fields" as shown below
 
-![](/assets/insert fields.PNG)
-
-
+![](/assets/insert fields2.PNG)
 
