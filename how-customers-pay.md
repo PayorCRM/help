@@ -24,6 +24,10 @@ Clicking on the "Pay with saved card button" will trigger a confirmation email t
 
 Clicking on the confirmation link will complete the payment and they can do all this right from their inbox for all their overdue invoices together !!
 
+See video below on how your customer will pay from within their email inbox
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GAeJZxWrss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Through Customer login
 
 All the customers in your customer list will receive an email invitation with the password.
