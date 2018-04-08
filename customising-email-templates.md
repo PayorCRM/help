@@ -29,9 +29,9 @@ You can add the dynamic fields at any given location in the mail template body b
 
 You can also customise your email template using an external editor as shown below.In the below video we have used [https://demo.stripo.email/](https://demo.stripo.email/) although there are many free external editors available.A simple google search would provide many such editors.
 
-{% youtube src="https://www.youtube.com/embed/P8VQQHZLi0M?rel=0" %}{% endyoutube %}
+{% youtube src="https://youtu.be/P8VQQHZLi0M" %}{% endyoutube %}
 
 Once you create a template you like , you can copy the html code of the template and paste it within the html editor as shown
 
-{% youtube src="https://www.youtube.com/embed/R8ctiv2OqnM?rel=0" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=R8ctiv2OqnM" %}{% endyoutube %}
 
