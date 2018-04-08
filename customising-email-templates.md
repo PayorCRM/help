@@ -27,11 +27,11 @@ You can add the dynamic fields at any given location in the mail template body b
 
 #### Advanced customisation
 
-You can also customise your email template using an external editor as shown below.In the below video we have used [https://demo.stripo.email/](https://demo.stripo.email/) although there are many free external videos
+You can also customise your email template using an external editor as shown below.In the below video we have used [https://demo.stripo.email/](https://demo.stripo.email/) although there are many free external editors available.A simple google search would provide many such editors.
 
-&lt;iframe width="640" height="360" src="[https://www.youtube.com/embed/F8CZ0jRk2PI?rel=0](https://www.youtube.com/embed/F8CZ0jRk2PI?rel=0)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/P8VQQHZLi0M?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 Once you create a template you like , you can copy the html code of the template and paste it within the html editor as shown
 
-&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/R8ctiv2OqnM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="640" height="360" src="[https://www.youtube.com/embed/R8ctiv2OqnM?rel=0](https://www.youtube.com/embed/R8ctiv2OqnM?rel=0)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
