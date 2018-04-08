@@ -33,5 +33,5 @@ You can also customise your email template using an external editor as shown bel
 
 Once you create a template you like , you can copy the html code of the template and paste it within the html editor as shown
 
-{% youtube src="https://www.youtube.com/watch?v=R8ctiv2OqnM" %}{% endyoutube %}
+{% youtube src="https://youtu.be/R8ctiv2OqnM" %}{% endyoutube %}
 
