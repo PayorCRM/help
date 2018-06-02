@@ -16,16 +16,20 @@ To be able to connect to Quickbooks Desktop you may need to complete the followi
 6.Open Quickbooks Desktop and follow the below steps
 
 * Go to File -&gt; Update Webservices
-* Click on "Add an application" button and select the qwc file attached
+* Click on "Add an application" button and select the qwc file you had downloaded from the portal \(step 4\)
 * In the next screen that appears you would need to select the radio button as shown in the pic below to ensure your data is updated on the PayorCRM portal
 
 ![](/assets/Qwc sync confirmation popup.png)
 
-* Login to PayorCRM  to check if all your data\(invoices and customers\) is visible on the portal.Refresh the page in case you are not able to see the data
+* On the below screen, click on the password field and add the same password you had used to create your account on payorCRM 
 
-* If you are unable to see any data still on the portal , Open Quickbooks - web connector screen\(screenshot below\) add a password and then click on the button "Update selected"\(top-left\) after selecting "payorCRM Integrator" to refresh the data on PayorCRM portal
+* Click on the button "Update selected"\(top-left\) after selecting "PayorCRM Integrator" to refresh the data on PayorCRM portal
 
 ![](/assets/Update Qwc sync.png)
+
+* Login to PayorCRM  to check if all your data\(invoices and customers\) is visible on the portal.Refresh the page in case you are not able to see the data
+
+
 
 ### Connecting to Quickbooks Online
 
