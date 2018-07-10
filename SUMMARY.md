@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Starting up](starting-up.md)
-* [Connecting to QB \(Desktop/Online\)](connecting-to-qb-desktoponline.md)
+* [Connecting to QuickBooks \(Desktop/Online\)](connecting-to-qb-desktoponline.md)
 * [Setting up payments](setting-up-payments.md)
 * [Setting up Invoice reminders](setting-up-invoice-reminders.md)
 * [Setting up Auto-debit](setting-up-auto-debit.md)
