@@ -19,7 +19,7 @@ Below are the list of gateways & Banks we support for a demo account under each 
 Pay by Credit card
 
 1. Paypal \(world wide\)
-2. Quickbooks payments \(you should already have an account with Quickbooks payments to be able to use this\)
+2. QuickBooks payments \(you should already have an account with QuickBooks payments to be able to use this\)
 3. Authorise.net
 4. JP Morgan Chase \(wepay\)
 
@@ -27,7 +27,7 @@ Pay using Bank to Bank transfer methods
 
 1. All banks in India through internet banking \(PayU\)
 2. All US banks \( US ACH payments\)
-3. Quickbooks payments \(US ACH payments\)
+3. QuickBooks payments \(US ACH payments\)
 4. Authorise.net
 5. JP Morgan Chase \(wepay\)
 
@@ -63,14 +63,14 @@ Copy and paste the above in the settings screen of PayorCRM and save
 
 You could  accept payments directly to your bank account by using the following methods
 
-* Quickbooks payments \(US only \)
+* QuickBooks payments \(US only \)
 * US ACH services provided by banks 
 
-##### 1.Quickbook payments
+##### 1.QuickBook payments
 
-Quickbooks in US provides the ability to accept payments.By integrating with Quickbooks to PayorCRM\( logging in using your Quickbooks account to PayorCRM\) . you will be automatically able to accept payments directly .
+QuickBooks in US provides the ability to accept payments.By integrating with QuickBooks to PayorCRM\( logging in using your QuickBooks account to PayorCRM\) . you will be automatically able to accept payments directly .
 
-Details about Quickbooks payments. See [link ](https://quickbooks.intuit.com/payments/)
+Details about QuickBooks payments. See [link ](https://quickbooks.intuit.com/payments/)
 
 ##### 2.US ACH services provided by banks
 
