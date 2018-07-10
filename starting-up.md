@@ -11,7 +11,7 @@ Clicking on the above link will open up the login page as shown below
 If you are a first time user , you can register on to the app through the following ways
 
 1. QuickBooks user : If you already have a QuickBooks account 
-   1. Click on "Login with Quickbooks" .This will take you to the quickbooks login page for authentication.
+   1. Click on "Login with QuickBooks" .This will take you to the QuickBooks login page for authentication.
    2. Enter your QuickBooks credentials and click submit
    3. In the next screen you may be asked to provide authorisation to share data with PayorCRM
    4. Click on "Authorise"
