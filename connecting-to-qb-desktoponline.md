@@ -31,7 +31,7 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 ### Connecting to Quickbooks Online
 
-![](/assets/loginscreen.PNG)
+![](/assets/PCM login.JPG)
 
 1. Click on "Login with QuickBooks" .This will take you to the QuickBooks login page for authentication.
 2. Enter your QuickBooks credentials and click submit
