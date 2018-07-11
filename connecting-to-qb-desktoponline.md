@@ -29,7 +29,7 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 * Login to PayorCRM  to check if all your data\(invoices and customers\) is visible on the portal.Refresh the page in case you are not able to see the data
 
-### Connecting to Quickbooks Online
+### Connecting to QuickBooks Online
 
 ![](/assets/PCM login.JPG)
 
