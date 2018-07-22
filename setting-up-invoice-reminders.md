@@ -25,23 +25,23 @@ The steps involved are as follows
 
 ### Step 1 : Create an email template
 
-Initially you will have to come up with the mail template for each of these reminders.
+Initially you will have to come up with the mail template for each of the type of reminders.
 
 ![](http://www.payorcrm.com/wp-content/uploads/2018/01/Email-template.png "Email template screen allows you to define templates for various reminder emails")
 
-_Click on create a new template where you could define your template look and feel and text content.This open up the following window_
+_Click on create a new template where you could define your template look and feel and text content.This opens up the following window_
 
 ![](/assets/emailtemplate.PNG)
 
 Provide a template name , Subject of the email , CC \( optional\) along with the body of the mail.
 
-Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field {invoice\_list}. {invoice\_list} defines the position where the table with the list of invoices would go .
+Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field \{{invoice\_list}}. \{{invoice\_list}} defines the position where the table with the list of invoices would go .
 
 ![](/assets/insertfields3.PNG)
 
-Adding  {{payment\_buttons}} in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email. 
+Adding \{{payment_buttons}} in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email. 
 
-Note : You will need to ensure that you have set up payments on PayorCRM before using Payment links \(Check the help section "Setting up payments" \)
+Note : You will need to ensure that you have set up payments on PayorCRM before using Payment links \(Check the help section "Setting up payments" on how to setup payments \)
 
 ### Step 2 : Create and Define the rule
 
@@ -53,6 +53,15 @@ PayorCRM runs through the rules every day to check if there are any Customers an
 
 Click on "New Emailing Rule"
 
+Customer rules section allows you to specify which customer (using customer number) or group of customers (using customer categories) would receive the mail
+
+Invoice rules section allows you to specify which invoices of the above selected customer needs to be sent in the reminder email.
+
+Some common invoice rules
+1. Invoice amount greater/less than xxxx
+2. Invoice overdue days in the bucket 30-60 days
+3. invoice due in 1 day
+
 ![](/assets/Emailingrules new.PNG)
 
 _Email rules to define the rules based on which the email will be sent_
@@ -60,6 +69,8 @@ _Email rules to define the rules based on which the email will be sent_
 ##### Example
 
 In the above example as you can see the rule says that PayorCRM needs to send all customers who has invoices with Invoice amount greater than 1000 and is in the 30 to 60 days overdue bucket.
+
+_Test ruless_
 
 ![](/assets/Testrules.PNG)
 
