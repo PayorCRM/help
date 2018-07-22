@@ -59,7 +59,7 @@ _Email rules to define the rules based on which the email will be sent_
 
 ##### Example
 
-In the above example as you can see the rule says that PayorCRM needs to send all customers who has invoices with Invoice amount greater than 1000 and is in the 30 to 60 days overdue bucket
+In the above example as you can see the rule says that PayorCRM needs to send all customers who has invoices with Invoice amount greater than 1000 and is in the 30 to 60 days overdue bucket.
 
 ![](/assets/Testrules.PNG)
 
