@@ -31,11 +31,11 @@ _Click on create a new template where you could define your template look and fe
 
 Provide a template name , Subject of the email , CC \( optional\) along with the body of the mail.
 
-Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field {{invoice\_list}}. {{invoice\_list}} defines the position where the table with the list of invoices would go .
+Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field \{{invoice\_list}}. \{{invoice\_list}} defines the position where the table with the list of invoices would go .
 
 ![](/assets/insertfields3.PNG)
 
-Adding {{payment\_buttons}} in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
+Adding \{{payment\_buttons}} in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
 
 Note : You will need to ensure that you have set up payments on PayorCRM before using Payment links \(Check the help section "Setting up payments" on how to setup payments \)
 
@@ -66,7 +66,7 @@ _Email rules to define the rules based on which the email will be sent_
 
 In the above example as you can see the rule says that PayorCRM needs to send all customers who has invoices with Invoice amount greater than 1000 and is in the 30 to 60 days overdue bucket.
 
-_Test ruless_
+_Test rules_
 
 ![](/assets/Testrules.PNG)
 
