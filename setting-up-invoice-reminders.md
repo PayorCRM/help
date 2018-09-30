@@ -2,6 +2,26 @@
 
 One of the ways of automating your collections process is by automating all your invoice reminders based on your business requirements.This will help free up your teams and help them spend time on other activites such as researching disputes or chasing customers with overdue invoices.
 
+
+
+### Using the default Email Automation \( one click setup \)
+
+When you create an account on PayorCRM . The app creates a set of email automation which can be activated by just one click
+
+To activate them 
+
+
+
+1. Click on "Invoice reminders" in the menu on the left and select "Email Automation"
+2. Click on the "Active" / "Inactive" toggle button 
+3. Voila ! PayorCRM will send email reminders automatically to all your customers based on Invoice due /overdue days
+
+![](/assets/EmailAutomation2.PNG)
+
+
+
+### Create Custom Email Automation with Custom Email templates
+
 To come up with Invoice reminder rules you may have to ask the below question to yourself
 
 Are there certain customers / invoice amounts / dates  for which you want PayorCRM to send automated mail reminders? These may be based on your past experiences or on the criticality of those invoices or any other criteria you have.
@@ -12,6 +32,8 @@ For eg :
 * You might want to send a mail with a certain content to all customers every 5 days who has invoices with Amount greater than 5000 dollars
 * You might want to send weekly reminders to customers who invoices are overdue by 90 days
 
+
+
 The steps involved are as follows
 
 1. Create an email template with a message content based on the rule you will set.
@@ -21,7 +43,7 @@ The steps involved are as follows
 
 ### Step 1 : Create an email template
 
-Initially you will have to come up with the mail template for each of the type of reminders. 
+Initially you will have to come up with the mail template for each of the type of reminders.
 
 ![](http://www.payorcrm.com/wp-content/uploads/2018/01/Email-template.png "Email template screen allows you to define templates for various reminder emails")
 
@@ -31,11 +53,11 @@ _Click on create a new template where you could define your template look and fe
 
 Provide a template name , Subject of the email , CC \( optional\) along with the body of the mail.
 
-Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field \{{invoice\_list}}. \{{invoice\_list}} defines the position where the table with the list of invoices would go .
+Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field {{invoice\_list}}. {{invoice\_list}} defines the position where the table with the list of invoices would go .
 
 ![](/assets/insertfields3.PNG)
 
-Adding \{{payment\_buttons}} in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
+Adding {{payment\_buttons}} in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
 
 Note : You will need to ensure that you have set up payments on PayorCRM before using Payment links \(Check the help section "Setting up payments" on how to setup payments \)
 
