@@ -8,7 +8,7 @@ One of the ways of automating your collections process is by automating all your
 
 When you create an account on PayorCRM . The app creates a set of email automation which can be activated by just one click
 
-To activate them 
+To activate them  
 
 
 
