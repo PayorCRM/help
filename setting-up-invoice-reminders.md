@@ -3,7 +3,6 @@
 One of the ways of automating your collections process is by automating all your invoice reminders based on your business requirements.This will help free up your teams and help them spend time on other activites such as researching disputes or chasing customers with overdue invoices.
 
 
-
 ### Using the default Email Automation \( one click setup \)
 
 When you create an account on PayorCRM . The app creates a set of email automation which can be activated by just one click
