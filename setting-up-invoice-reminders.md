@@ -1,6 +1,6 @@
 # Setting up Invoice reminders
 
-One of the ways of automating your collections process is by automating all your invoice reminders based on your business requirements.This will help free up your teams and help them spend time on other activites such as researching disputes or chasing customers with overdue invoices.
+One of the ways of automating your collections process is by automating all your invoice reminders based on your business requirements.This will help free up your teams and help them spend time on other activities such as researching disputes or chasing customers with overdue invoices.
 
 
 
@@ -16,7 +16,7 @@ To activate them
 
 ![](.gitbook/assets/emailautomation2.PNG)
 
-## Create Custom Email Automation with Custom Email templates
+## Create Custom Email Automation with Custom Email templates \( Advanced setup \)
 
 To come up with Invoice reminder rules you may have to ask the below question to yourself
 
