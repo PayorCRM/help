@@ -37,7 +37,7 @@ Step 2 : Under Accounts Setting &gt; Under Pay with Credit card &gt; Select the 
 
 Step 3: Click on Active Check Box and enter the Authorize.Net Login ID and Authorize.Net Transaction key
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 Step 4 : Click on Save
 
