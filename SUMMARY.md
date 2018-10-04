@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Starting up](starting-up.md)
+* [Connecting to QB Desktop/Online](connecting-to-qb-desktoponline.md)
 * [Setting up payments](setting-up-payments/README.md)
   * [Setting up Authorize.Net](setting-up-payments/setting-up-authorize.net.md)
 * [Setting up Invoice reminders](setting-up-invoice-reminders/README.md)
