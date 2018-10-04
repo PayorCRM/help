@@ -3,10 +3,10 @@
 To setup payments do the following steps
 
 * Click on the settings button in the menu
-* ![](.gitbook/assets/settings.JPG)
+* ![](../.gitbook/assets/settings.JPG)
 * Select Account settings from the tab
 
-![](.gitbook/assets/account-settings.JPG)
+![](../.gitbook/assets/account-settings.JPG)
 
 * You can see three different methods through which a customer of yours can pay you
   * Pay by Multiple
@@ -56,11 +56,11 @@ To accept credit card payments through Paypal you should first create a paypal a
 
 6. Look for your client id and Secret key
 
-![](.gitbook/assets/paypal-securitykey.png)
+![](../.gitbook/assets/paypal-securitykey.png)
 
 Copy and paste the above in the settings screen of PayorCRM and save
 
-![](.gitbook/assets/payorcrm-paypal-security.PNG)
+![](../.gitbook/assets/payorcrm-paypal-security.PNG)
 
 ## Setting up bank to bank transfer payments
 
@@ -81,7 +81,7 @@ Almost all US bank provide you the ability to accept payments directly to your b
 
 Please contact _solutions@payorCRM.com_ if you need help through the setup.The below screenshot shows all the configuration information that needs to be filled to set this up
 
-![](.gitbook/assets/us-ach-setup.png)
+![](../.gitbook/assets/us-ach-setup.png)
 
 See links to ACH services provided by some US banks \(incomplete list\)
 
