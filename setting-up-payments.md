@@ -1,13 +1,12 @@
-# Setting up payments on PayorCRM
+# Setting up payments
 
 To setup payments do the following steps
 
 * Click on the settings button in the menu
-* ![](/assets/settings.JPG)
-
+* ![](.gitbook/assets/settings.JPG)
 * Select Account settings from the tab
 
-![](/assets/Account settings.JPG)
+![](.gitbook/assets/account-settings.JPG)
 
 * You can see three different methods through which a customer of yours can pay you
   * Pay by Multiple
@@ -33,9 +32,9 @@ Pay using Bank to Bank transfer methods
 
 We support other processors and banks other than the above listed for paid accounts.Please contact us \(solutions@payorcrm.com\) for an upgrade .
 
-### Setting credit card payments {#credit-card-payments}
+## Setting credit card payments {#credit-card-payments}
 
-##### 1.Setting up paypal
+### 1.Setting up paypal
 
 To accept credit card payments through Paypal you should first create a paypal account for your business
 
@@ -44,41 +43,45 @@ To accept credit card payments through Paypal you should first create a paypal a
 1. [PayPal](https://www.paypal.com/) , login, else Signup
 2. Go to [PayPal Developers](https://developer.paypal.com/)
 3. Scroll down and click on Create App button under REST API apps
+
    ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//4269e5a11.png)
+
 4. Provide required information, and click on Create App button
+
    ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//427e3800f.png)
-5. Switch to Live tab  \( Use only the credentials from live app on PayorCRM\)
+
+5. Switch to Live tab \( Use only the credentials from live app on PayorCRM\)
 
    ![](https://snappy.appypie.com/ckeditor/plugins/imageuploader/uploads//428efd80c.png)
 
 6. Look for your client id and Secret key
 
-![](/assets/paypal-securitykey.png)
+![](.gitbook/assets/paypal-securitykey.png)
 
 Copy and paste the above in the settings screen of PayorCRM and save
 
-![](/assets/payorcrm paypal security .PNG)
+![](.gitbook/assets/payorcrm-paypal-security.PNG)
 
-### Setting up bank to bank transfer payments
+## Setting up bank to bank transfer payments
 
-You could  accept payments directly to your bank account by using the following methods
+You could accept payments directly to your bank account by using the following methods
 
 * QuickBooks payments \(US only \)
 * US ACH services provided by banks 
 
-##### 1.QuickBook payments
+### 1.QuickBook payments
 
 QuickBooks in US provides the ability to accept payments.By integrating with QuickBooks to PayorCRM\( logging in using your QuickBooks account to PayorCRM\) . you will be automatically able to accept payments directly .
 
 Details about QuickBooks payments. See [link ](https://quickbooks.intuit.com/payments/)
 
-##### 2.US ACH services provided by banks
+### 2.US ACH services provided by banks
 
 Almost all US bank provide you the ability to accept payments directly to your bank account.To start accepting payments through this mode you would need to contact your Account Manager to set it up for you.
 
 Please contact _solutions@payorCRM.com_ if you need help through the setup.The below screenshot shows all the configuration information that needs to be filled to set this up
 
-![](/assets/US ACH setup.png)
+![](.gitbook/assets/us-ach-setup.png)
 
 See links to ACH services provided by some US banks \(incomplete list\)
 

@@ -1,18 +1,18 @@
-# PayorCRM API Integration
+# API integration
 
 You can make API calls to PayorCRM using the API endpoint .To be able to do that you will need to first get your account's API Secret and API key Values.You can find these in the settings screen as shown below
 
-![](/assets/API key and secret.png)
+![](.gitbook/assets/api-key-and-secret.png)
 
 Copy the above credentials to make API calls with PayorCRM endpoints
 
 ## Authorization
 
-Use obtained **API Key **and **API Secret **in header as **api\_key **and **api\_secret. **
+Use obtained **API Key** and **API Secret** in header as **api\_key** and **api\_secret.** 
 
 For Example:
 
-```
+```text
     Content-Type:application/json
     api_secret: 6ed0a...3bad
     api_key: eyJ....MDk
@@ -20,11 +20,11 @@ For Example:
 
 ## API Endpoints
 
-#### 1. Uploading Invoices List
+### 1. Uploading Invoices List
 
 Send a json post request to **/jsonApi/upload/invoices**. See below for attributes you can use.
 
-```js
+```javascript
 POST /jsonApi/upload/invoices
 Content-Type:application/json
 [{
@@ -34,7 +34,7 @@ Content-Type:application/json
 
 For invoice available attributes are
 
-```js
+```javascript
   "companyCode": {
     "type": "string"
   },
@@ -135,7 +135,7 @@ For invoice available attributes are
 
 An example Invoice payload body would be
 
-```js
+```javascript
 {
     customerNumber: "23123123",
     invoiceNumber: "21321",
@@ -143,13 +143,13 @@ An example Invoice payload body would be
 }
 ```
 
-#### 2. Uploading Customers List
+### 2. Uploading Customers List
 
-To upload customers list use endpoint **/jsonApi/upload/customers **and send post request containing array of **Customers**
+To upload customers list use endpoint **/jsonApi/upload/customers** and send post request containing array of **Customers**
 
 For Example
 
-```
+```text
 POST /jsonApi/upload/customers
 Content-Type:application/json
 [{
@@ -159,7 +159,7 @@ Content-Type:application/json
 
 Attributes for customer object.
 
-```
+```text
   "companyname": {
     "type": "string"
   },
@@ -187,7 +187,7 @@ Attributes for customer object.
 
 An example Customer payload body would be
 
-```
+```text
 [{
     "companyname" : "Payorcrm LLC",
     "firstname" : "John",
@@ -200,6 +200,4 @@ An example Customer payload body would be
 ```
 
 > Please note that before uploading an invoice you make sure the customer already exists so that we can link that invoice to that customer. We use customerNumber field to link those invoices.
-
-
 

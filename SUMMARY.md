@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Starting up](starting-up.md)
@@ -9,3 +9,4 @@
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
 * [Customising email templates](customising-email-templates.md)
+

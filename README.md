@@ -1,4 +1,6 @@
-![](/assets/PayorCRM01.jpg)
+# Introduction
+
+![](.gitbook/assets/payorcrm01.jpg)
 
 PayorCRM is targetted at B2B business.We help B2B businesses maintain their cashflows by automating most of the activities a collection team would do in any B2B business
 
