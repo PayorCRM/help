@@ -2,7 +2,7 @@
 
 To allow your customers to login to the portal and view their invoices and pay you , You would need to first invite them from your login page
 
-Inviting Selected customers
+**Inviting Selected customers**
 
 Step 1 : Select the customers you would like to invite and click on invite selected customers
 
@@ -28,5 +28,11 @@ To check if a customer already has atleast one login ID , Check the column " Has
 
 ![](.gitbook/assets/image%20%285%29.png)
 
+**Inviting all customers**
 
+To invite all customers , Click on "Invite all customers" button and follow the same proceedure as above. 
+
+Please note that sending invites to more than a 1000 customers may take upto 2 hours. The "Has login " column may take time to update in that case.
+
+![](.gitbook/assets/image%20%286%29.png)
 
