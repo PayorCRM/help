@@ -1,4 +1,4 @@
-# Inviting customers to your portal
+# Inviting customers to your Billing portal
 
 To allow your customers to login to the portal and view their invoices and pay you , You would need to first invite them from your login page
 
