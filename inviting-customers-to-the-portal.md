@@ -1,4 +1,4 @@
-# Inviting customers to the portal
+# Inviting customers to your portal
 
 To allow your customers to login to the portal and view their invoices and pay you , You would need to first invite them from your login page
 
@@ -10,16 +10,18 @@ Step 1 : Select the customers you would like to invite and click on "Invite sele
 
 Step 2 : Selecting the credentials pattern
 
-1. User ID : Specify what the login id for the customer should be 
-2. Password : Select how the password should be formed from the list of possible patterns.
+1. Generate Username From : Specify what the login id for the customer should be 
+2. Generate Password From : Select how the password should be formed from the list of possible patterns.
 
- 
+For Eg : Selecting "Random" for Generate Password will generate a random 6 digit alphanumeric value as password. 
 
 ![](.gitbook/assets/image%20%286%29.png)
 
 
 
-Step 3 : Select where the invite should be sent . You can either chose to send the invite to the Customers email id  or to another email id of your choice . If you click on Another email id, you will be able to specify the email id to which the invite should be sent
+Step 3 : Select to which email id the invite should be sent . You can either chose to send the invite to the Customers email id  or to Another email id of your choice . If you click on Another email id, you will be able to specify the email id to which the invite should be sent.
+
+_Tip : You may use the "Another Email ID" option to provide your own email id so that you can receive the credentials in your Email Id to test out the service by logging in as a customer._
 
 ![](.gitbook/assets/image%20%282%29.png)
 
