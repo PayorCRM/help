@@ -22,3 +22,7 @@ The rule creator under Invoice reminder allows advanced rules to be created .The
 
 In the above example the above rule gets triggered when either the invoice due days equals 5 days or when the Invoice is over due by 10 days .The rule group will provide the result TRUE only when either of these are true.
 
+### Adding a category
+
+To add a new category you'll need to go to [Customers View](https://app.payorcrm.com/#!/user/customers) and click on the edit button. A popup with select customer details will popup and you'll see a button saying `NEW CATEGORY` click on this button to add new category.
+
