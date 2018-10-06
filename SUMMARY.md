@@ -8,10 +8,10 @@
 * [Setting up Invoice reminders](setting-up-invoice-reminders/README.md)
   * [Use the default Email Automation \( one click setup \)](setting-up-invoice-reminders/use-the-default-email-automation-one-click-setup.md)
   * [Create Custom Email Automation](setting-up-invoice-reminders/create-custom-email-automation.md)
+  * [Creating Advanced Rules](setting-up-invoice-reminders/creating-rules.md)
+  * [Customising email templates](setting-up-invoice-reminders/customising-email-templates.md)
 * [Setting up Auto/Recurring payments](setting-up-auto-debit.md)
 * [Inviting customers to your Billing portal](inviting-customers-to-the-portal.md)
-* [Creating Advanced Rules](creating-rules.md)
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
-* [Customising email templates](customising-email-templates.md)
 
