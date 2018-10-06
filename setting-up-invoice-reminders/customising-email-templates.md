@@ -4,7 +4,7 @@ PayorCRM provides absolute flexibility to customize your emails using the email 
 
 ![](../.gitbook/assets/customise-email.PNG)
 
-Click on ![](../.gitbook/assets/expand.PNG) to let the email template editor screen covers the page. Click on the same button after completion of customization of the email template to minimize the same.
+Click on ![](../.gitbook/assets/expand.PNG) to let the email template editor screen cover the page. Click on the same button after completion of customization of the email template to minimize the same.
 
 ![](../.gitbook/assets/edit-templete.PNG)
 
