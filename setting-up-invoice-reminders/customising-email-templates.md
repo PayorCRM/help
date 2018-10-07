@@ -33,9 +33,9 @@ You can also customize your email template using an external editor as shown bel
 
 Once you create a template you like , you can copy the html code of the template and paste it within the html editor as shown \(Tools -&gt; Source code \)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Click ok once you paste the Html code within the editor
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
