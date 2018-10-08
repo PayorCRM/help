@@ -1,4 +1,4 @@
-# Embedding Customer portal access on your Website
+# Allowing Customer Portal access from your Website
 
 
 

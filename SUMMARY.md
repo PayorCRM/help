@@ -14,5 +14,5 @@
 * [Inviting customers to your Billing portal](inviting-customers-to-the-portal.md)
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
-* [Embedding Customer portal access on your Website](embedding-customer-sign-on-your-website.md)
+* [Allowing Customer Portal access from your Website](embedding-customer-sign-on-your-website.md)
 
