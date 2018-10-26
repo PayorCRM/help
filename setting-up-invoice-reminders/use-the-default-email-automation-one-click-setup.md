@@ -1,4 +1,4 @@
-# Use the default Email Automation \( one click setup \)
+# Using the default Email Automation \( one click setup \)
 
 When you create an account on PayorCRM . The app creates a set of email automation which can be activated by just one click
 

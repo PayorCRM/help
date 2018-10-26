@@ -6,7 +6,7 @@ Authorize.Net allows you to choose between its merchant account + payment gatewa
 
 Please reach out to us @ solutions@payorcrm.com to help you setup if you are not sure which one would be the best for you.
 
-### Choosing Authorize.Net {#choosing-authorize-net}
+### Choosing Authorize.Net <a id="choosing-authorize-net"></a>
 
 Consider the following factors before choosing Authorize.Net as a payment solution:
 
@@ -27,7 +27,7 @@ To be able to accept ACH payments using PayorCRM ,
 
 
 
-### Configuring Authorize.Net with PayorCRM to accept Credit card and ACH payments {#configuring-authorize-net-with-chargebee}
+### Configuring Authorize.Net with PayorCRM to accept Credit card and ACH payments <a id="configuring-authorize-net-with-chargebee"></a>
 
 Follow the steps to configure Authorize.Net to accept Credit card and ACH Payments
 

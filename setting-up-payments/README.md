@@ -32,7 +32,7 @@ Pay using Bank to Bank transfer methods
 
 We support other processors and banks other than the above listed for paid accounts.Please contact us \(solutions@payorcrm.com\) for an upgrade .
 
-## Setting credit card payments {#credit-card-payments}
+## Setting credit card payments <a id="credit-card-payments"></a>
 
 ### 1.Setting up paypal
 

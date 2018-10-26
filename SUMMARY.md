@@ -6,7 +6,7 @@
 * [Setting up payments](setting-up-payments/README.md)
   * [Setting up Authorize.Net](setting-up-payments/setting-up-authorize.net.md)
 * [Setting up Invoice reminders](setting-up-invoice-reminders/README.md)
-  * [Use the default Email Automation \( one click setup \)](setting-up-invoice-reminders/use-the-default-email-automation-one-click-setup.md)
+  * [Using the default Email Automation \( one click setup \)](setting-up-invoice-reminders/use-the-default-email-automation-one-click-setup.md)
   * [Create Custom Email Automation](setting-up-invoice-reminders/create-custom-email-automation.md)
   * [Creating Advanced Rules](setting-up-invoice-reminders/creating-rules.md)
   * [Customising email templates](setting-up-invoice-reminders/customising-email-templates.md)
