@@ -16,15 +16,15 @@ By doing so the payment\_buttons tag will be added to the view as shown below
 
 When a customer receives the email with list of overdue invoices, It will look like below
 
-![](.gitbook/assets/payment-button-replaced.PNG)
+![](.gitbook/assets/sample-email-with-links.PNG)
 
-Clicking on the "Pay with saved card button" will trigger a confirmation email to be sent to them as shown below
+Clicking on the "Pay with card xxxxx" will trigger a confirmation email to be sent to the customer email as shown below
 
 ![](.gitbook/assets/pm-confirmation.PNG)
 
 Clicking on the confirmation link will complete the payment and they can do all this right from their inbox for all their overdue invoices together !!
 
-See video below on how your customer will pay from within their email inbox
+
 
 ## Through Customer login
 
