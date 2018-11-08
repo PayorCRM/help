@@ -6,7 +6,7 @@ To allow your customers to login to the portal and view their invoices and pay y
 
 Step 1 : Select the customers you would like to invite and click on "Invite selected customers" button
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 Step 2 : Selecting the credentials pattern
 
@@ -15,7 +15,7 @@ Step 2 : Selecting the credentials pattern
 
 For Eg : Selecting "Random" for Generate Password will generate a random 6 digit alphanumeric value as password. 
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 
 
@@ -33,7 +33,7 @@ _Please note : Customers who doesn't have selected the credential information \(
 
 To check if a customer already has at-least one login ID , Check the column " Has Login" in the customers view.If this value is set to true , it means that the customer has already been invited.A customer who has already been invited cannot be invited again.
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 **Inviting all customers**
 
@@ -41,7 +41,7 @@ To invite all customers , Click on "Invite all customers" button and follow the 
 
 
 
-![Click on this button to invite all customers](.gitbook/assets/image%20%2816%29.png)
+![Click on this button to invite all customers](.gitbook/assets/image%20%2817%29.png)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -51,5 +51,5 @@ Please note that sending invites to more than a 1000 customers may take upto 2 h
 
 All your customers once invited will get a mail that looks like below.They will then be able to login to the App and view invoices raised by you and Pay.
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
