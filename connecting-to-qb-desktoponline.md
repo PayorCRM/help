@@ -1,4 +1,4 @@
-# Connecting to QB Desktop/Online
+# Connecting to QuickBooks Desktop/Online
 
 PayorCRM application can connect to both QuickBooks Desktop or QuickBooks Online to pull data from these accounting systems.If you are using an accounting software different from QuickBooks , Reach out to us at solutions@payorcrm.com
 
