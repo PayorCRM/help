@@ -1,6 +1,6 @@
-# Creating Custom Email Automation
+# Creating Custom Invoice Reminder
 
-## Create Custom Email Automation with Custom Email templates \( Advanced setup \)
+## Create Custom Invoice Reminder with Custom Email templates \( Advanced setup \)
 
 
 
