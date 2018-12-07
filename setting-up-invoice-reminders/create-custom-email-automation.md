@@ -1,16 +1,8 @@
-# Create Custom Email Automation
+# Creating Custom Email Automation
 
 ## Create Custom Email Automation with Custom Email templates \( Advanced setup \)
 
-To come up with Invoice reminder rules you may have to ask the below question to yourself
 
-Are there certain customers / invoice amounts / dates for which you want PayorCRM to send automated mail reminders? These may be based on your past experiences or on the criticality of those invoices or any other criteria you have.
-
-For eg :
-
-* You might want to send a mail with a certain content to all customers whose invoices will be due in the next 5 dates
-* You might want to send a mail with a certain content to all customers every 5 days who has invoices with Amount greater than 5000 dollars
-* You might want to send weekly reminders to customers who invoices are overdue by 90 days
 
 The steps involved are as follows
 
