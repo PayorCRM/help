@@ -23,11 +23,11 @@ _Click on create a new template where you could define your template look and fe
 
 Provide a template name , Subject of the email , CC \( optional\) along with the body of the mail.
 
-Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field .  defines the position where the table with the list of invoices would go .
+Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field  {{invoice\_list}} . {{invoice\_list}} defines the position where the table with the list of invoices would go .
 
 ![](../.gitbook/assets/insertfields3.PNG)
 
-Adding  in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
+Adding  {{payment\_buttons}}  in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
 
 Note : You will need to ensure that you have set up payments on PayorCRM before using Payment links \(Check the help section "Setting up payments" on how to setup payments \)
 
