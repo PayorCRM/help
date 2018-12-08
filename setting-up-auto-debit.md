@@ -12,7 +12,7 @@ Before setting up Auto/Recurring payments you will need to make sure you have se
 
 ![](.gitbook/assets/image%20%2816%29.png)
 
-3. In the pop-up window that open select the customer you want to accept auto recurring payments from along with the payment method \( Card / Bank account \) and the exact card/bank account to be used for processing the payment
+3. In the pop-up window that opens,  Select the customer you want to accept auto recurring payments from along with the payment method \( Card / Bank account \) and the exact card/bank account to be used for processing the payment
 
 ![Select bank account to be used for Auto Payments](.gitbook/assets/image%20%287%29.png)
 
