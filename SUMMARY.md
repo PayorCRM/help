@@ -16,4 +16,5 @@
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
 * [Allowing Customer Portal access from your Website](embedding-customer-sign-on-your-website.md)
+* [Adding Custom App within your Customer portal](adding-custom-app-within-your-customer-portal.md)
 
