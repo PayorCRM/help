@@ -33,7 +33,7 @@ _Please note : Customers who doesn't have selected the credential information \(
 
 To check if a customer already has at-least one login ID , Check the column " Has Login" in the customers view.If this value is set to true , it means that the customer has already been invited.A customer who has already been invited cannot be invited again.
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 **Inviting all customers**
 
@@ -41,7 +41,7 @@ To invite all customers , Click on "Invite all customers" button and follow the 
 
 
 
-![Click on this button to invite all customers](.gitbook/assets/image%20%2817%29.png)
+![Click on this button to invite all customers](.gitbook/assets/image%20%2818%29.png)
 
 ![](.gitbook/assets/image%20%281%29.png)
 

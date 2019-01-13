@@ -10,7 +10,7 @@ Before setting up Auto/Recurring payments you will need to make sure you have se
 
  2. Click on the "Add rule" button to create a rule.This opens up a popup where you can define the customer , the trigger and payment method to be used for Auto payments
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 3. In the pop-up window that opens,  Select the customer you want to accept auto recurring payments from along with the payment method \( Card / Bank account \) and the exact card/bank account to be used for processing the payment
 
