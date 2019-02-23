@@ -1,4 +1,4 @@
-# Customising email templates
+# Customizing Email Templates
 
 PayorCRM provides absolute flexibility to customize your emails using the email template editor.
 
