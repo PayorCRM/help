@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * [Starting up](starting-up.md)
-* [Connecting to QuickBooks Desktop/Online](connecting-to-qb-desktoponline.md)
+* [Connecting PayorCRM to your Accounting Software](connecting-to-qb-desktoponline/README.md)
+  * [QuickBooks Online](connecting-to-qb-desktoponline/quickbooks-online.md)
+  * [QuickBooks Desktop](connecting-to-qb-desktoponline/quickbooks-desktop.md)
 * [Setting up payments](setting-up-payments/README.md)
   * [Setting up Authorize.Net](setting-up-payments/setting-up-authorize.net.md)
   * [Setting up QuickBooks Payments](setting-up-payments/setting-up-quickbooks-payments.md)
