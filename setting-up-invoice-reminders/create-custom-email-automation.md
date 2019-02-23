@@ -1,39 +1,6 @@
-# Creating Custom Email Reminders
+# Customize Email Rules
 
-## Create Custom Invoice Reminder with Custom Email templates \( Advanced setup \)
-
-
-
-The steps involved are as follows
-
-1. Create an email template with a message content based on the rule you will set.
-2. Create Emailing rules
-3. Save rule 
-4. Repeat for a different set of email template and rules
-
-## Step 1 : Create an email template
-
-Initially you will have to come up with the mail template for each of the type of reminders.
-
-![Email template screen allows you to define templates for various reminder emails](http://www.payorcrm.com/wp-content/uploads/2018/01/Email-template.png)
-
-_Click on create a new template where you could define your template look and feel and text content.This opens up the following window_
-
-![](../.gitbook/assets/emailtemplate.PNG)
-
-Provide a template name , Subject of the email , CC \( optional\) along with the body of the mail.
-
-Use Insert fields drop down to add various dynamic variables within the email.Make sure you add the variable field  {{invoice\_list}} . {{invoice\_list}} defines the position where the table with the list of invoices would go .
-
-![](../.gitbook/assets/insertfields3.PNG)
-
-Adding  {{payment\_buttons}}  in the mail body will ensure that payment links are added to the email body when the customer receives the message so that customer can pay from within the email.
-
-Note : You will need to ensure that you have set up payments on PayorCRM before using Payment links \(Check the help section "Setting up payments" on how to setup payments \)
-
-## Step 2 : Create and Define the rule
-
-The rules define which customers will receive the emails and invoices will be send in the reminder email along with the email template to be used while sending the email
+The Email rules define which customers will receive the emails and invoices will be send in the reminder email along with the email template to be used while sending the email
 
 PayorCRM runs through the rules every day to check if there are any Customers and invoices matching the rule on a particular day.If there is a match , The customer defined in the rule would then receive a mail with all the invoices matching the rule
 
@@ -65,4 +32,6 @@ _Test rules_
 Click on the test rule button to test the rule with the invoices you have currently loaded on PayorCRM.This will open up a popup with the results of the rule as of today.
 
 Once you are satisfied with the rule , You can click on save button to save the rule.
+
+To see more examples of Email rules go to [https://help.payorcrm.com/setting-up-invoice-reminders/examples-of-email-reminder-rules](https://help.payorcrm.com/setting-up-invoice-reminders/examples-of-email-reminder-rules) 
 
