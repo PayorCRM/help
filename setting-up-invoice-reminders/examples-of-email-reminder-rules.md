@@ -20,7 +20,7 @@
 
 #### 4. Invoice reminder rule to send all invoices due in 1 day to customers of the category "VIP customers" **\[ Applies to VIP customers \]**
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ### 
 

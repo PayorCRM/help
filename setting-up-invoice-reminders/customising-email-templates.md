@@ -2,11 +2,11 @@
 
 PayorCRM provides absolute flexibility to customize your emails using the email template editor.
 
-![](../.gitbook/assets/customise-email.PNG)
+![](../.gitbook/assets/image%20%2820%29.png)
 
-Click on ![](../.gitbook/assets/expand.PNG) to let the email template editor screen cover the page. Click on the same button after completion of customization of the email template to minimize the same.
+Click on **Create/Edit Template** to open the email editor. 
 
-![](../.gitbook/assets/edit-templete.PNG)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ## Add dynamic fields as required
 
@@ -21,9 +21,19 @@ PayorCRM supports the following dynamic fields
 * Total amount  - Total due amount 
 * Payment buttons - Payment buttons that will help your customer pay you right within the email .See details here - [https://help.payorcrm.com/how-customers-pay.html](https://help.payorcrm.com/how-customers-pay.html)
 
-You can add the dynamic fields at any given location in the mail template body by selecting them from the drop down "Insert Fields" as shown below
+You can add the dynamic fields at any given location in the mail template body by selecting text section where you would like to add them.
 
-![](../.gitbook/assets/insert-fields2.PNG)
+
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
+
+
+Click on **"Merge tags"** button to see the list of merge tags available
+
+
+
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## Advanced customization
 
@@ -33,9 +43,9 @@ You can also customize your email template using an external editor as shown bel
 
 Once you create a template you like , you can copy the html code of the template and paste it within the html editor as shown \(Tools -&gt; Source code \)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 Click ok once you paste the Html code within the editor
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 

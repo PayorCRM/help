@@ -1,4 +1,4 @@
-# Creating Custom Invoice Reminder
+# Creating Custom Email Reminders
 
 ## Create Custom Invoice Reminder with Custom Email templates \( Advanced setup \)
 
