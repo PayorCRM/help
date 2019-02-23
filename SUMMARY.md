@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Starting up](starting-up.md)
 * [Connecting PayorCRM to your Accounting Software](connecting-to-qb-desktoponline/README.md)
   * [QuickBooks Online](connecting-to-qb-desktoponline/quickbooks-online.md)
   * [QuickBooks Desktop](connecting-to-qb-desktoponline/quickbooks-desktop.md)
