@@ -9,7 +9,7 @@
 * [Setting up payments](setting-up-payments/README.md)
   * [Setting up Authorize.Net](setting-up-payments/setting-up-authorize.net.md)
   * [Setting up QuickBooks Payments](setting-up-payments/setting-up-quickbooks-payments.md)
-  * [Other payment service provider](setting-up-payments/other-payment-service-provider.md)
+  * [Other payment service providers](setting-up-payments/other-payment-service-provider.md)
 * [Setting up Invoice reminders](setting-up-invoice-reminders/README.md)
   * [Using the default Invoice Reminder \( one click setup \)](setting-up-invoice-reminders/use-the-default-email-automation-one-click-setup.md)
   * [Customizing Email Rules](setting-up-invoice-reminders/create-custom-email-automation.md)
