@@ -26,5 +26,5 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 ![](../.gitbook/assets/update-qwc-sync.png)
 
-* Login to PayorCRM  to check if all your data\(invoices and customers\) is visible on the portal.Refresh the page in case you are not able to see the data
+* Login to PayorCRM  to check if all your data\(invoices and customers\) are visible on the portal.Refresh the page in case you are not able to see the data
 
