@@ -30,13 +30,13 @@ If a customer has not received the email with credentials ,They can directly res
 
 Once the customer logs in they can make payments for invoice raised by you through the following ways
 
-1. Pay using credit card
+1.Pay using New Credit Card or a Previously Saved Card
 
-2.Pay using US ACH \( by entering US Bank account and routing numbers\)
+2.Pay using Bank account no \( In case of US, A US Bank Account Number and Routing Number\)
 
 ![](.gitbook/assets/new-bank-account.PNG)
 
-3.Pay using previously saved Bank account number using US ACH payment method
+3. Pay using a previously saved Bank account number 
 
 ![](.gitbook/assets/pay-using-saved-card.PNG)
 
