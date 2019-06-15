@@ -6,14 +6,6 @@ This guide will show you various ways your customers can pay you through the pay
 
 Yes ! Your customers can now pay you right from their email inbox using their previously saved cards or bank account numbers
 
-To allow your customers to pay you right from their email inbox ensure that you add payment links to reminder mails as shown below
-
-![](.gitbook/assets/payment-links.PNG)
-
-By doing so the payment\_buttons tag will be added to the view as shown below
-
-![](.gitbook/assets/payment-tag.PNG)
-
 When a customer receives the email with list of overdue invoices, It will look like below
 
 ![](.gitbook/assets/sample-email-with-links.PNG)
