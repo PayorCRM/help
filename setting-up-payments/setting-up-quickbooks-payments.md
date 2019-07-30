@@ -4,11 +4,11 @@ If you are using QuickBooks Online and has enabled QuickBooks Payments for your 
 
 **Step 1 :** To enable QuickBooks payments on PayorCRM go to the settings menu
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 **Step 2 :** You can find the button "Enable QuickBooks Payments" under "General settings"
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 **Step 3 :** You will be then redirected to the QuickBooks online page as above.Click on the connect button to start accepting payments via QuickBooks Payments on PayorCRM
 

@@ -2,11 +2,11 @@
 
 PayorCRM provides absolute flexibility to customize your emails using the email template editor.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 Click on **Create/Edit Template** to open the email editor. 
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ## Add dynamic fields as required
 
@@ -23,7 +23,7 @@ PayorCRM supports the following dynamic fields
 
 You can add the dynamic fields at any given location in the mail template body by selecting text section where you would like to add them.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 
 
@@ -31,9 +31,9 @@ Click on **"Merge tags"** button to see the list of merge tags available
 
 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 
 

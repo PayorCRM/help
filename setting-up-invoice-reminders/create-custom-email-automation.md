@@ -13,17 +13,17 @@ Customer rules section allows you to specify which customer \(using customer num
 Invoice rules section allows you to specify which invoices of the above selected customer needs to be sent in the reminder email.
 
 Some common invoice rules  
-1. Invoice amount greater/less than xxxx  
-2. Invoice overdue days in the bucket 30-60 days  
-3. invoice due in 1 day
+1. Invoice amount greater/less than xxxx and due in y days  
+2. Invoice overdue by x days  
+3. invoice due in y day
 
-![](../.gitbook/assets/emailingrules-new.PNG)
+![](../.gitbook/assets/image%20%282%29.png)
 
 _Email rules to define the rules based on which the email will be sent_
 
 ### Example
 
-In the above example as you can see the rule says that PayorCRM needs to send all customers who has invoices with Invoice amount greater than 1000 and is in the 30 to 60 days overdue bucket.
+In the above example as you can see the rule says that PayorCRM needs to send Customers categorized as "VIP customers " invoice reminders if they are due the next day.
 
 _Test rules_
 
