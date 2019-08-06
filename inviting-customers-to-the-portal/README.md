@@ -4,5 +4,5 @@ To allow your customers to login to the portal and view their invoices and pay y
 
 
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
