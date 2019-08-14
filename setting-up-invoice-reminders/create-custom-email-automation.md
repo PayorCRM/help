@@ -2,7 +2,7 @@
 
 The Email rules allow you to define the customers who will receive reminders and the invoices that will be send in the reminder email.
 
-The app runs through the rules every day to check if there are any Customers and invoices matching the rule .If a match is found , The customers defined in the rule would receive a single email with all the invoices matching the rule
+The app runs through the rules every day to check if there are any Customers and invoices matching the rule .If a match is found , The customers defined in the "**customer rule selection"** would receive a single email with all the invoices matching the **"invoice rule selection"**
 
 ### **Setting up a New Email Rule**
 
@@ -37,7 +37,7 @@ Some common invoice rules
 
 ![](../.gitbook/assets/testrules.PNG)
 
-Click on the test rule button will run rule for the invoices you have currently loaded on PayorCRM.This will open up a popup with the results of the rule as of today.
+Click on the test rule button will run the rule for the invoices you have currently loaded on PayorCRM.This will open up a popup with the results of the rule as of today.
 
 Once you are satisfied with the rule , You can click on save button to save the rule.
 
