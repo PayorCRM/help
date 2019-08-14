@@ -6,15 +6,15 @@ Before setting up Auto/Recurring payments you will need to make sure you have se
 
 1. To setup Auto/Recurring payments click on the Menu "Auto Payments" as shown below
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
  2. Click on the "Add rule" button to create a rule.This opens up a popup where you can define the customer , the trigger and payment method to be used for Auto payments
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 3. In the pop-up window that opens,  Select the customer you want to accept auto recurring payments from along with the payment method \( Card / Bank account \) and the exact card/bank account to be used for processing the payment
 
-![Select bank account to be used for Auto Payments](.gitbook/assets/image%20%2813%29.png)
+![Select bank account to be used for Auto Payments](.gitbook/assets/image%20%2814%29.png)
 
 4. Select Auto Payment type. This defines the condition that triggers auto-payments
 
