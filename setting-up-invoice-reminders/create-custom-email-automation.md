@@ -1,8 +1,8 @@
 # Customizing Email Rules
 
-The Email rules define which customers will receive the emails and invoices will be send in the reminder email along with the email template to be used while sending the email
+The Email rules allow you to define the customers who will receive reminders and the invoices that will be send in the reminder email.
 
-PayorCRM runs through the rules every day to check if there are any Customers and invoices matching the rule on a particular day.If there is a match , The customer defined in the rule would then receive a mail with all the invoices matching the rule
+The app runs through the rules every day to check if there are any Customers and invoices matching the rule .If a match is found , The customers defined in the rule would receive a single email with all the invoices matching the rule
 
 ![](../.gitbook/assets/emailrules.PNG)
 
