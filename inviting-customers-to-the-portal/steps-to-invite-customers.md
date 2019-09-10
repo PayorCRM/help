@@ -39,7 +39,7 @@ To invite all customers , Click on "Invite all customers" button and follow the 
 
 
 
-![Click on this button to invite all customers](../.gitbook/assets/image%20%2831%29.png)
+![Click on this button to invite all customers](../.gitbook/assets/image%20%2832%29.png)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 

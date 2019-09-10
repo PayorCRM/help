@@ -18,6 +18,7 @@
   * [Examples of Email reminder rules](setting-up-invoice-reminders/examples-of-email-reminder-rules.md)
   * [Creating Advanced Rules](setting-up-invoice-reminders/creating-rules.md)
 * [Setting up Automated statements](setting-up-automated-statements/README.md)
+  * [Quick Video Tutorials](setting-up-automated-statements/quick-video-tutorials.md)
   * [Enabling Default Statement Automation Rules](setting-up-automated-statements/enabling-default-statement-automation-rules.md)
 * [Setting up Auto/Recurring payments](setting-up-auto-debit.md)
 * [Inviting customers to your Billing portal](inviting-customers-to-the-portal/README.md)

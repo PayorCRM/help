@@ -6,7 +6,7 @@ PayorCRM provides absolute flexibility to customize your emails using the email 
 
 Click on **Create/Edit Template** to open the email editor. 
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ## Add dynamic fields as required
 
