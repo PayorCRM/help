@@ -22,7 +22,7 @@ For Eg : To setup statement Rule to send statements to **all customers** with in
 
 **Statement pdf - sample attachment**
 
-{% file src="../.gitbook/assets/october-statement.pdf" caption="Sample statement - Tip - Click on invoice no to see the" %}
+{% file src="../.gitbook/assets/october-statement \(1\).pdf" caption="Sample statement - Tip - Click on invoice no to see the" %}
 
 
 
