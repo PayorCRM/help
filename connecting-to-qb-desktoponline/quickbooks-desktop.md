@@ -11,9 +11,11 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 3. Click "Settings" menu on the left pane
 4. Under "General settings" tab click on the "Download QWC file" button to download the connector file required for Desktop connection
 
-![](../.gitbook/assets/qwc-file.png)
 
-6.Open QuickBooks Desktop and follow the below steps
+
+![General settings -&amp;gt; Download QWC file](../.gitbook/assets/qwc-download.png)
+
+5.Open QuickBooks Desktop and follow the below steps
 
 ![File -&amp;gt; Update Webservices](../.gitbook/assets/qb.PNG)
 
