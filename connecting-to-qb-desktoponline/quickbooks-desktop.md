@@ -25,13 +25,13 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 ![](../.gitbook/assets/qwc-sync-confirmation-popup.png)
 
-* On the below screen, click on the password field and add the same password you had used to create your account on payorCRM
+* On the below screen, click on the password field and add the same password you had used to create your account on PayorCRM
 
 ![Enter your payorCRM admin account password in the red box](../.gitbook/assets/qbd-password.png)
 
 * Click on the button "Update selected"\(top-left\) after selecting "PayorCRM Integrator" to refresh the data on PayorCRM portal
 
-![](../.gitbook/assets/update-qwc-sync.png)
+![Click update selected](../.gitbook/assets/qb-web-connector-update.png)
 
 * Login to PayorCRM  to check if all your data\(invoices and customers\) are visible on the portal.Refresh the page in case you are not able to see the data after waiting for 5 - 10 min
 
