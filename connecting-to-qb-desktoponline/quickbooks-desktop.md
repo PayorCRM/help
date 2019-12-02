@@ -21,6 +21,9 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 * Go to File -&gt; Update Webservices
 * Click on "Add an application" button and select the qwc file you had downloaded from the portal \(step 4\)
+
+![](../.gitbook/assets/add-application2.png)
+
 * In the next screen that appears you would need to select the radio button as shown in the pic below to ensure your data is updated on the PayorCRM portal
 
 ![](../.gitbook/assets/qwc-sync-confirmation-popup.png)
