@@ -1,7 +1,5 @@
 # Setting up Authorize.Net
 
-
-
 Authorize.Net allows you to choose between its merchant account + payment gateway plan or its [Payment Gateway only](https://www.authorize.net/solutions/merchantsolutions/pricing/?p=gwo)  plan.
 
 Please reach out to us @ solutions@payorcrm.com to help you setup if you are not sure which one would be the best for you.
