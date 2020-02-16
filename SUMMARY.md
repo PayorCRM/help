@@ -33,3 +33,7 @@
 * [Allowing Customer Portal access from your Website](embedding-customer-sign-on-your-website.md)
 * [Adding Custom App within your Customer portal](adding-custom-app-within-your-customer-portal.md)
 
+## FAQ
+
+* [Payment Errors](faq/payment-errors.md)
+
