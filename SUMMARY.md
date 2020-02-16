@@ -35,5 +35,5 @@
 
 ## FAQ
 
-* [Payment Errors](faq/payment-errors.md)
+* [Email Payment Link Errors](faq/payment-errors.md)
 

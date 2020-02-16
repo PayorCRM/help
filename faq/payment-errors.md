@@ -1,4 +1,4 @@
-# Payment Errors
+# Email Payment Link Errors
 
 ## Token Error / Invalid Token
 
@@ -11,9 +11,11 @@ If you did not receive a confirmation email after clicking the links the first t
 
 
 
-##  Have you had a chance to answer the previous question?
+## Invoice paid /Payment already made
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+You will be seeing this error if you are clicking on any of the Payment links within an email for which the invoice has already been paid . If you see this error it is a confirmation that the payment has already been made.
+
+Please note that the above doesn't mean that the money has been transferred to the merchant.
 
 
 
