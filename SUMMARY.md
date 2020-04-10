@@ -31,7 +31,7 @@
   * [Adding Collection Notes](manual-collections/adding-collection-notes.md)
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
-* [Allowing Customer Portal access from your Website](embedding-customer-sign-on-your-website.md)
+* [Branded Customer portal](embedding-customer-sign-on-your-website.md)
 * [Adding Custom App within your Customer portal](adding-custom-app-within-your-customer-portal.md)
 
 ## FAQ
