@@ -1,4 +1,4 @@
-# Steps to Invite Customers
+# Inviting customers manually
 
 **Inviting Selected customers**
 

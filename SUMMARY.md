@@ -24,7 +24,7 @@
 * [Setting up Auto/Recurring payments](setting-up-auto-debit.md)
 * [Inviting customers to your Billing portal](inviting-customers-to-the-portal/README.md)
   * [Quick Video Tutorial](inviting-customers-to-the-portal/quick-video-tutorial.md)
-  * [Steps to Invite Customers](inviting-customers-to-the-portal/steps-to-invite-customers.md)
+  * [Inviting customers manually](inviting-customers-to-the-portal/steps-to-invite-customers.md)
 * [Manual Collections](manual-collections/README.md)
   * [Sending an invoice reminder manually](manual-collections/sending-a-reminder-manually.md)
   * [Adding Collection Notes](manual-collections/adding-collection-notes.md)
