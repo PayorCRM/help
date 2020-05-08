@@ -14,7 +14,7 @@ The app runs through the rules every day to check if there are any Customers and
 
 2. This will open up the below given screen
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 
 
@@ -22,7 +22,7 @@ The app runs through the rules every day to check if there are any Customers and
 
 **Customer selection condition**  - Here you can define how customers are selected when the rule runs everyday 
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 **Invoice selection condition** - Here you can define out of the customers selected in the customer selection rule , What invoices needs to be picked up on a particular day.
 

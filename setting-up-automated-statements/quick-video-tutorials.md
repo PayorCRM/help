@@ -18,7 +18,7 @@ For Eg : To setup statement Rule to send statements to **all customers** with in
 
 **Sample statement email with pdf**
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 **Statement pdf - sample attachment**
 

@@ -29,6 +29,7 @@
   * [Inviting customers manually](inviting-customers-to-the-portal/steps-to-invite-customers.md)
 * [Manual Collections](manual-collections/README.md)
   * [Adding Collection Notes](manual-collections/adding-collection-notes.md)
+  * [Allocate follow up tasks manually](manual-collections/allocate-follow-up-tasks-manually.md)
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay.md)
 * [Branded Customer portal](embedding-customer-sign-on-your-website.md)

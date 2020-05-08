@@ -4,13 +4,13 @@ PayorCRM app allows you to quickly send email reminders to your customers manual
 
 1. Select the invoices you want to add in the reminder and click on the "Send Reminder" button
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 2. Select the template to use to send the reminder along with the email id to which the reminder needs to be sent.
 
 
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 
 

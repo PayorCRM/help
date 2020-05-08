@@ -6,13 +6,13 @@ To add an invite link to invoice reminders
 
 1. Go to **Invoice Reminders - &gt; Email Templates**
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 
 
 2. Click on **Edit email template**
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 3. Click on the button **Merge tag** 
 
