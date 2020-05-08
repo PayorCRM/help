@@ -1,4 +1,4 @@
-# Allocate follow up tasks automatically
+# Allocating follow up tasks automatically
 
 You can allocate follow up tasks to your team members automatically based on certain triggers
 

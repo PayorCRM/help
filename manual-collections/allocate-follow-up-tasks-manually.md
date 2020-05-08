@@ -1,4 +1,4 @@
-# Allocate follow up tasks manually
+# Allocating follow up tasks manually
 
 You can allocate follow up tasks to your team members as below
 
