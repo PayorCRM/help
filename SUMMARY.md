@@ -21,6 +21,7 @@
 * [Setting up Automated statements](setting-up-automated-statements/README.md)
   * [Quick Video Tutorials](setting-up-automated-statements/quick-video-tutorials.md)
   * [Enabling Default Statement Automation Rules](setting-up-automated-statements/enabling-default-statement-automation-rules.md)
+  * [Statement template](setting-up-automated-statements/statement-template.md)
   * [Sample statement email + pdf](setting-up-automated-statements/sample-statement-email-+-pdf.md)
 * [Setting up Auto/Recurring payments](setting-up-auto-debit.md)
 * [Inviting customers to your Billing portal](inviting-customers-to-the-portal/README.md)
