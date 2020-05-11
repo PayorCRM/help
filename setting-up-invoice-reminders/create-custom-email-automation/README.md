@@ -10,11 +10,11 @@ The app runs through the rules every day to check if there are any Customers and
 
 
 
-![](../.gitbook/assets/emailrules.PNG)
+![](../../.gitbook/assets/emailrules.PNG)
 
 2. This will open up the below given screen
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 
 
@@ -22,7 +22,7 @@ The app runs through the rules every day to check if there are any Customers and
 
 **Customer selection condition**  - Here you can define how customers are selected when the rule runs everyday 
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 **Invoice selection condition** - Here you can define out of the customers selected in the customer selection rule , What invoices needs to be picked up on a particular day.
 
@@ -35,7 +35,7 @@ Some common invoice rules
 
 **Test the rule**
 
-![](../.gitbook/assets/testrules.PNG)
+![](../../.gitbook/assets/testrules.PNG)
 
 Click on the test rule button will run the rule for the invoices you have currently loaded on PayorCRM.This will open up a popup with the results of the rule as of today.
 
