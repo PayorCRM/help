@@ -1,4 +1,4 @@
-# Customizing Email Rules
+# Setup Email Rules
 
 The Email rules allow you to define the customers who will receive reminders and the invoices that will be send in the reminder email.
 
