@@ -1,4 +1,4 @@
-# Using the default Invoice Reminder \( one click setup \)
+# Using the default Invoice Reminder
 
 When you create an account on PayorCRM . The app creates a set of email automation rules which can be activated by just one click
 

@@ -19,15 +19,18 @@ PayorCRM supports the following dynamic fields
 * Invoice list - List of unpaid invoices that are defined in the email rules section
 * Customer Company Name - Company name as defined in the Customer list
 * Total amount  - Total due amount 
-* Payment buttons - Payment buttons that will help your customer pay you right within the email .See details here - [https://help.payorcrm.com/how-customers-pay.html](https://help.payorcrm.com/how-customers-pay.html)
+* Payment buttons - Payment buttons that will help your customer pay you from right within the email .See details here - [https://help.payorcrm.com/how-customers-pay.html](https://help.payorcrm.com/how-customers-pay.html)
+* Login Register button - This dynamic variable will be replaced with a login register button which your customer can use to sign up / sign in to your customer portal
 
-You can add the dynamic fields at any given location in the mail template body by selecting text section where you would like to add them.
+You can add the dynamic fields at any given location in the mail template body.
+
+**Step 1**  - Click on the text block where you would like to add a dynamic variable
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
 
 
-Click on **"Merge tags"** button to see the list of merge tags available
+**Step 2** - Click on **"Merge tags"** button to see the list of merge tags available
 
 
 

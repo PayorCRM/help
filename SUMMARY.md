@@ -16,7 +16,7 @@
     * [Examples of Email reminder rules](setting-up-invoice-reminders/create-custom-email-automation/examples-of-email-reminder-rules.md)
     * [Creating Advanced Rules](setting-up-invoice-reminders/create-custom-email-automation/creating-rules.md)
   * [Setup Email Templates](setting-up-invoice-reminders/customising-email-templates.md)
-  * [Using the default Invoice Reminder \( one click setup \)](setting-up-invoice-reminders/use-the-default-email-automation-one-click-setup.md)
+  * [Using the default Invoice Reminder](setting-up-invoice-reminders/use-the-default-email-automation-one-click-setup.md)
   * [Sending an invoice reminder manually](setting-up-invoice-reminders/sending-a-reminder-manually.md)
 * [Setting up Automated statements](setting-up-automated-statements/README.md)
   * [Quick Video Tutorials](setting-up-automated-statements/quick-video-tutorials.md)
