@@ -6,9 +6,13 @@ Unlike Invoice Reminders , Automated statements feature allows you to set up rul
 
 **Difference between Invoice reminders & Statement reminders**
 
-**Invoice reminders** - These are reminders sent based on a particular trigger even such as - "invoice due in x days" or "invoice overdue by y days"
+**Invoice reminders** - These are reminders sent based on trigger events such as - "invoice due in x days" or "invoice overdue by y days"
 
-**Statement reminders** - These are reminders sent based on a trigger even such as "Day of the week" or "Day of the month" .
+For e.g - Send invoice reminders for invoices that are due in 5 days
 
-Statement reminders hence allows to send an aggregated list of all open invoices that a customer has .
+**Statement reminders** - These are reminders sent based on a trigger event such as "Day of the week" or "Day of the month" .
+
+For e.g - Send all open invoices on the 1st day of every month
+
+
 
