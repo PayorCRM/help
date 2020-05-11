@@ -1,6 +1,8 @@
 # Creating Advanced Rules
 
-The rule creator under Invoice reminder allows advanced rules to be created .The below guide will help advanced users create advanced rules when creating custom reminders.
+The rule creator under Invoice reminder allows advanced rules to be created .The below guide will help users create advanced rules when creating custom invoice reminder rules.
+
+The below screenshot shows the UI of the rule creator view
 
 ![](../../.gitbook/assets/rules.png)
 
@@ -18,11 +20,9 @@ The rule creator under Invoice reminder allows advanced rules to be created .The
    ```
 
    1. The Rule definition - The moment you click on 'Add rule' button a new empty rule definition line is added.This is where you could add a new rule that rules engine need to consider.You can add literally infinite number of such rule definitions.
-   2. The Rule group - A rule group allows you to add a group of rule definitions which can be AND ed or OR ed seperate from the other rules
+   2. The Rule group - A rule group allows you to add a group of rule definitions which can be AND ed or OR ed separate from the other rules
 
 In the above example the above rule gets triggered when either the invoice due days equals 5 days or when the Invoice is over due by 10 days .The rule group will provide the result TRUE only when either of these are true.
 
-### Adding a category
-
-To add a new category you'll need to go to [Customers View](https://app.payorcrm.com/#!/user/customers) and click on the edit button. A popup with select customer details will popup and you'll see a button saying `NEW CATEGORY` click on this button to add new category.
+### 
 
