@@ -35,7 +35,9 @@
   * [Allocating follow up tasks manually](manual-collections/allocate-follow-up-tasks-manually.md)
   * [Allocating follow up tasks automatically](manual-collections/allocate-follow-up-tasks-automatically.md)
 * [API integration](api-integration.md)
-* [How customers pay you](how-customers-pay.md)
+* [How customers pay you](how-customers-pay/README.md)
+  * [From within email using saved card/bank acct](how-customers-pay/from-within-email.md)
+  * [Through Customer login](how-customers-pay/untitled.md)
 * [Branded Customer portal](embedding-customer-sign-on-your-website.md)
 * [Adding Custom App within your Customer portal](adding-custom-app-within-your-customer-portal.md)
 
