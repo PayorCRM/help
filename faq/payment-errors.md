@@ -8,7 +8,7 @@ If you did not receive a confirmation email after clicking the link the first ti
 
 *  Wait for a few minutes for the confirmation email to arrive
 
-                                                          OR
+                                                          **OR**
 
 * Click on "PAY WITH NEW CARD "  or "PAY WITH NEW BANK ACCOUNT" link in the email and add your card/bank details to pay manually.
 
