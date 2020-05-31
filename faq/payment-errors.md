@@ -4,7 +4,7 @@
 
 Pay with xxxxxx card  / Pay with xxxxx bank account links are **one time use** links . 
 
-If you did not receive a confirmation email after clicking the link the first time you could do the following
+If you did not receive a confirmation email after clicking the "Pay with xxxxxx card"  / "Pay with xxxxx" link the first time you could do the following
 
 *  Wait for a few minutes for the confirmation email to arrive
 
