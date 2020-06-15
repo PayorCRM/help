@@ -9,6 +9,7 @@
   * [Netsuite](connecting-to-qb-desktoponline/netsuite.md)
   * [Other accounting software](connecting-to-qb-desktoponline/other-accounting-software.md)
 * [Setting up payments](setting-up-payments/README.md)
+  * [Setting up PayPal](setting-up-payments/setting-up-paypal.md)
   * [Setting up Authorize.Net](setting-up-payments/setting-up-authorize.net.md)
   * [Setting up QuickBooks Payments](setting-up-payments/setting-up-quickbooks-payments.md)
   * [Other payment service providers](setting-up-payments/other-payment-service-provider.md)
