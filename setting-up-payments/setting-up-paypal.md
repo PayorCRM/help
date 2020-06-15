@@ -11,7 +11,7 @@ You will need to create an app in the PayPal account to generate a client ID for
 
 ![](https://moontech.zendesk.com/hc/article_attachments/360017401531/427e3800f__1___1_.png)
 
-* Once the App is created it will have a toggle for sandbox and live and also show the Client ID.
+* Once the App is created it will have a toggle for sandbox and live .
 
 ![](https://moontech.zendesk.com/hc/article_attachments/360017401551/4743285e-0312-11e7-811e-e83c64a38778__1___1___1_.png)
 
@@ -23,14 +23,14 @@ You will need to create an app in the PayPal account to generate a client ID for
 
 On PayorCRM app go to Settings \(left menu\) - Payment Integration
 
-* The client id value from PayPal should be filled in the merchant id field on the app \(see screenshot below\)
-* The secret key value will have to be filled in the secret key field on the app
+* The client id value from PayPal should be filled in the "PayPal Merchant id" field on the app \(see screenshot below\)
+* The secret key value will have to be filled in the "PayPal secret key" field on the app
 
 
 
 ![](../.gitbook/assets/paypal-setup.png)
 
 {% hint style="info" %}
-Please note that customers can pay using PayPal only by logging into the customer portal
+Please note that customers can pay using PayPal only by logging into the customer portal and not via email reminders.
 {% endhint %}
 
