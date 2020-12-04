@@ -6,21 +6,23 @@
 
 To be able to connect to QuickBooks Desktop you may need to complete the following steps
 
-1. Create an account using the registration screen at [https://app.payorcrm.com/](https://app.payorcrm.com/#!/login)
-2. After filling the form click on the Register section , Login to the portal
-3. Click "Settings" menu on the left pane
-4. Under "General settings" tab click on the "Download QWC file" button to download the connector file required for Desktop connection
+
+
+* Create an account using the registration screen at [https://app.payorcrm.com/](https://app.payorcrm.com/#!/login)
+* Click the "Settings" menu on the left pane after logging in
+* Under the "General settings" tab click on the "Download QWC file" button to download the connector file required for Desktop connection
 
 
 
 ![General settings -&amp;gt; Download QWC file](../../.gitbook/assets/qwc-download.png)
 
-5.Open QuickBooks Desktop and follow the below steps
+5.Open QuickBooks Desktop and Go to File -&gt; Update Webservices
 
 ![File -&amp;gt; Update Webservices](../../.gitbook/assets/qb.PNG)
 
-* Go to File -&gt; Update Webservices
-* Click on "Add an application" button and select the qwc file you had downloaded from the portal \(step 4\)
+
+
+* Click on the "Add an application" button and select the qwc file you had downloaded from the portal 
 
 ![](../../.gitbook/assets/add-application2.png)
 
@@ -36,5 +38,5 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 ![Click update selected](../../.gitbook/assets/qb-web-connector-update.png)
 
-* Login to PayorCRM  to check if all your data\(invoices and customers\) are visible on the portal.Refresh the page in case you are not able to see the data after waiting for 5 - 10 min
+* Login to PayorCRM to check if all your data\(invoices and customers\) are visible on the portal.Refresh the page in case you are not able to see the data after waiting for 5 - 10 min
 
