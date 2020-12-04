@@ -26,7 +26,7 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 * In the next screen that appears you would need to select the radio button as shown in the pic below to ensure your data is updated on the PayorCRM portal
 
-![](../../.gitbook/assets/qwc-sync-confirmation-popup.png)
+![](../../.gitbook/assets/qb-desktop-access.png)
 
 * On the below screen, click on the password field and add the same password you had used to create your account on PayorCRM
 
