@@ -4,7 +4,7 @@ PayorCRM gives you the ability to use your own email server to send emails.The a
 
 The following list provides the various configuration parameters to enable this feature 
 
-* **port** – is the port to connect to \( usual values are 587 , 465 , 25\)
+* **Port** – is the port to connect to \( usual values are 587 , 465 , 25\)
 * **SMTP Address**– is the hostname or IP address to connect to 
 * **User** is the username
 * **Password** is the password for the user
