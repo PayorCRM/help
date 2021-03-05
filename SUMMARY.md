@@ -40,6 +40,8 @@
   * [From within email using saved card/bank acct](how-customers-pay/from-within-email.md)
   * [Through Customer login](how-customers-pay/untitled.md)
 * [Branded Customer portal](embedding-customer-sign-on-your-website.md)
+* [Miscellaneous](miscellaneous/README.md)
+  * [Managing customer access](miscellaneous/managing-customer-access.md)
 * [Advanced settings](advanced-settings/README.md)
   * [Using your own Email Server](advanced-settings/using-your-own-email-server.md)
   * [Credit Card surcharge and Late fees](advanced-settings/credit-card-surcharge-and-late-fees.md)
