@@ -1,6 +1,6 @@
 # Setting up QuickBooks Payments
 
-If you have a QuickBooks Payments account \(QuickBooks Merchant Services account \) , You can straight way start accepting payments through PayorCRM 
+If you have a QuickBooks Payments account \(QuickBooks Merchant Services account \) , You can straightaway start accepting payments through PayorCRM 
 
 **Step 1 :** To enable QuickBooks payments on PayorCRM go to the settings menu -&gt; General settings
 
