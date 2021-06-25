@@ -6,6 +6,7 @@
     * [Data sync](connecting-to-qb-desktoponline/quickbooks-online/data-sync.md)
   * [QuickBooks Desktop](connecting-to-qb-desktoponline/quickbooks-desktop/README.md)
     * [Data sync](connecting-to-qb-desktoponline/quickbooks-desktop/data-sync.md)
+    * [FAQ - QB Desktop Setup/Sync](connecting-to-qb-desktoponline/quickbooks-desktop/faq-qb-desktop-setup-sync.md)
   * [Netsuite](connecting-to-qb-desktoponline/netsuite.md)
   * [Other accounting software](connecting-to-qb-desktoponline/other-accounting-software.md)
 * [Setting up payments](setting-up-payments/README.md)
