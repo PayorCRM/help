@@ -8,21 +8,21 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 
 
-* Create an account using the registration screen at [https://app.payorcrm.com/](https://app.payorcrm.com/#!/login)
+* To create an account with us that can be linked to your QB Desktop account , Please reach out to us by using the the link [https://www.payorcrm.com/pricing/](https://www.payorcrm.com/pricing/)
 * Click the "Settings" menu on the left pane after logging in
 * Under the "General settings" tab click on the "Download QWC file" button to download the connector file required for Desktop connection
 
 
 
-![General settings -&amp;gt; Download QWC file](../../.gitbook/assets/qwc-download.png)
+![General settings -> Download QWC file](../../.gitbook/assets/qwc-download.png)
 
-5.Open QuickBooks Desktop and Go to File -&gt; Update Webservices
+5.Open QuickBooks Desktop and Go to File -> Update Webservices
 
-![File -&amp;gt; Update Webservices](../../.gitbook/assets/qb.PNG)
+![File -> Update Webservices](../../.gitbook/assets/qb.PNG)
 
 
 
-* Click on the "Add an application" button and select the qwc file you had downloaded from the portal 
+* Click on the "Add an application" button and select the qwc file you had downloaded from the portal&#x20;
 
 ![](../../.gitbook/assets/add-application2.png)
 
@@ -34,9 +34,8 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 ![Enter your payorCRM admin account password in the red box](../../.gitbook/assets/qbd-password.png)
 
-* Click on the button "Update selected"\(top-left\) after selecting "PayorCRM Integrator" to refresh the data on PayorCRM portal
+* Click on the button "Update selected"(top-left) after selecting "PayorCRM Integrator" to refresh the data on PayorCRM portal
 
 ![Click update selected](../../.gitbook/assets/qb-web-connector-update.png)
 
-* Login to PayorCRM to check if all your data\(invoices and customers\) are visible on the portal.Refresh the page in case you are not able to see the data after waiting for 5 - 10 min
-
+* Login to PayorCRM to check if all your data(invoices and customers) are visible on the portal.Refresh the page in case you are not able to see the data after waiting for 5 - 10 min
