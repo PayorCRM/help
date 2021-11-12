@@ -1,6 +1,12 @@
 # Manual Collections
 
-Manual collections process involves following up customers manually for payments. This section provides information about the various tools PayorCRM provides within the application
+**Auto Collections Vs Manual Collections**
+
+**Auto Collections** - This module is meant for businesses that needs an automated system to follow up with customers for payments as well as automate incoming payment acceptance
+
+**Manual Collections** - This module is meant for businesses that follows a manual process \(read phone calls, personal emails etc \) to follow up customers and needs to streamline the process with a tool.
 
 
+
+![](../.gitbook/assets/autovsmanual.png)
 
