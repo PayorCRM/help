@@ -6,17 +6,17 @@ Before setting up Auto/Recurring payments you will need to make sure you have se
 
 1. To setup Auto/Recurring payments click on the Menu "Auto Payments" as shown below
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](<.gitbook/assets/image (20).png>)
 
- 2. Click on the "Add rule" button to create a rule.This opens up a popup where you can define the customer , the trigger and payment method to be used for Auto payments
+&#x20;2\. Click on the "Add rule" button to create a rule.This opens up a popup where you can define the customer , the trigger and payment method to be used for Auto payments
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](<.gitbook/assets/image (27).png>)
 
-3. In the pop-up window that opens,  Select the customer you want to accept auto recurring payments from along with the payment method \( Card / Bank account \) and the exact card/bank account to be used for processing the payment
+3\. In the pop-up window that opens,  Select the customer you want to accept auto recurring payments from along with the payment method ( Card / Bank account ) and the exact card/bank account to be used for processing the payment
 
-![Select bank account to be used for Auto Payments](.gitbook/assets/image%20%2815%29.png)
+![Select bank account to be used for Auto Payments](<.gitbook/assets/image (15).png>)
 
-4. Select Auto Payment type. This defines the condition that triggers auto-payments
+4\. Select Auto Payment type. This defines the condition that triggers auto-payments
 
 You have the following options to choose from
 
@@ -30,17 +30,16 @@ You have the following options to choose from
 
 **Charge invoices with amount less than** - This rule processes only those invoices that has payment amount less than the specified value.
 
-5. Charge on - This field is used to specify the trigger when the invoice needs to be processed .You could specify the no of days before or after due date on which the invoice needs to be processed.
+5\. Charge on - This field is used to specify the trigger when the invoice needs to be processed .You could specify the no of days before or after due date on which the invoice needs to be processed.
 
 
 
-![](.gitbook/assets/image%20%285%29.png)
+![](<.gitbook/assets/image (5).png>)
 
 {% hint style="info" %}
 Tip - If you want all the invoices to be autopaid whenever it is created you can the set the value in "Charge on" as below
 
-Charge on  _3000_  days _before_ due date
+Charge on  _3000  _days _before_ due date
 
-Since the invoices usually have "due days" \[no of days between current date and the due date\] less than 3000  , They are considered for Auto Payments automatically on the day they are created.
+Since the invoices usually have "due days" \[no of days between current date and the due date] less than 3000  , They are considered for Auto Payments automatically on the day they are created.
 {% endhint %}
-

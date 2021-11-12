@@ -6,15 +6,13 @@
 
 
 
-2. Test Email Template
+2\. Test Email Template
 
 {% embed url="https://youtu.be/vomASILkfvc" %}
 
 
 
-3. Setup New Email Rules
+3\. Setup New Email Rules
 
 {% embed url="https://youtu.be/AHbGK-guHl4" %}
-
-
 

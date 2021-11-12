@@ -8,11 +8,11 @@ Copy the above credentials to make API calls with PayorCRM endpoints
 
 ## Authorization
 
-Use obtained **API Key** and **API Secret** in header as **api\_key** and **api\_secret.** 
+Use obtained **API Key **and **API Secret **in header as **api\_key **and **api\_secret. **
 
 For Example:
 
-```text
+```
     Content-Type:application/json
     api_secret: 6ed0a...3bad
     api_key: eyJ....MDk
@@ -145,11 +145,11 @@ An example Invoice payload body would be
 
 ### 2. Uploading Customers List
 
-To upload customers list use endpoint **/jsonApi/upload/customers** and send post request containing array of **Customers**
+To upload customers list use endpoint **/jsonApi/upload/customers **and send post request containing array of **Customers**
 
 For Example
 
-```text
+```
 POST /jsonApi/upload/customers
 Content-Type:application/json
 [{
@@ -159,7 +159,7 @@ Content-Type:application/json
 
 Attributes for customer object.
 
-```text
+```
   "companyname": {
     "type": "string"
   },
@@ -187,7 +187,7 @@ Attributes for customer object.
 
 An example Customer payload body would be
 
-```text
+```
 [{
     "companyname" : "Payorcrm LLC",
     "firstname" : "John",
@@ -200,4 +200,3 @@ An example Customer payload body would be
 ```
 
 > Please note that before uploading an invoice you make sure the customer already exists so that we can link that invoice to that customer. We use customerNumber field to link those invoices.
-

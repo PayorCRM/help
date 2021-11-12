@@ -2,11 +2,11 @@
 
 PayorCRM provides absolute flexibility to customize your emails using the email template editor.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](<../.gitbook/assets/image (28).png>)
 
-Click on **Create/Edit Template** to open the email editor. 
+Click on **Create/Edit Template** to open the email editor.&#x20;
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](<../.gitbook/assets/image (34).png>)
 
 ## Add dynamic fields as required
 
@@ -18,15 +18,15 @@ PayorCRM supports the following dynamic fields
 * Last name - The last name as defined in your customer list
 * Invoice list - List of unpaid invoices that are defined in the email rules section
 * Customer Company Name - Company name as defined in the Customer list
-* Total amount  - Total due amount 
+* Total amount  - Total due amount&#x20;
 * Payment buttons - Payment buttons that will help your customer pay you from right within the email .See details here - [https://help.payorcrm.com/how-customers-pay.html](https://help.payorcrm.com/how-customers-pay.html)
 * Login Register button - This dynamic variable will be replaced with a login register button which your customer can use to sign up / sign in to your customer portal
 
 You can add the dynamic fields at any given location in the mail template body.
 
-**Step 1**  - Click on the text block where you would like to add a dynamic variable
+**Step 1  **- Click on the text block where you would like to add a dynamic variable
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](<../.gitbook/assets/image (26).png>)
 
 
 
@@ -34,9 +34,7 @@ You can add the dynamic fields at any given location in the mail template body.
 
 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](<../.gitbook/assets/image (9).png>)
 
-![](../.gitbook/assets/image%20%287%29.png)
-
-
+![](<../.gitbook/assets/image (7).png>)
 
