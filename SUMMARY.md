@@ -38,7 +38,7 @@
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay/README.md)
   * [From within email using saved card/bank acct](how-customers-pay/from-within-email.md)
-  * [Through Customer login](how-customers-pay/untitled.md)
+  * [Through Customer Portal](how-customers-pay/untitled.md)
 * [Branded Customer portal](embedding-customer-sign-on-your-website.md)
 * [Miscellaneous](miscellaneous/README.md)
   * [Managing customer access](miscellaneous/managing-customer-access.md)
