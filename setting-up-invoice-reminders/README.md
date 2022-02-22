@@ -9,6 +9,6 @@ To setup automated invoice reminders you will need to&#x20;
 
 Example of an email rule - Send all customers categorized as "slow paying " email reminders 5th or 10th day the invoice is overdue
 
-**Email Template - **This feature allows you to customize the look and feel of an email reminder completely&#x20;
+**Email Template -** This feature allows you to customize the look and feel of an email reminder completely&#x20;
 
 ##

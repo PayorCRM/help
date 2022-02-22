@@ -24,7 +24,7 @@ The app runs through the rules every day to check if there are any Customers and
 
 ![](<../../.gitbook/assets/image (22).png>)
 
-**Invoice selection condition **- Here you can define out of the customers selected in the customer selection rule , What invoices needs to be picked up on a particular day.
+**Invoice selection condition** - Here you can define out of the customers selected in the customer selection rule , What invoices needs to be picked up on a particular day.
 
 Some common invoice rules\
 1\. Invoice amount greater/less than xxxx and due in y days\

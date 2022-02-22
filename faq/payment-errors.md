@@ -2,7 +2,7 @@
 
 ## Token Error / Invalid Token
 
-Pay with xxxxxx card  / Pay with xxxxx bank account links are** one time use **links .&#x20;
+Pay with xxxxxx card  / Pay with xxxxx bank account links are **one time use** links .&#x20;
 
 If you did not receive a confirmation email after clicking the "Pay with xxxxxx card"  / "Pay with xxxxx" link the first time you could do the following
 

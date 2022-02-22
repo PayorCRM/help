@@ -33,7 +33,7 @@ To check if a customer already has at-least one login ID , Check the column " Ha
 
 ![](<../.gitbook/assets/image (25).png>)
 
-**Inviting all customers**
+**Inviting all customers**
 
 To invite all customers , Click on "Invite all customers" button and follow the same procedure as above.&#x20;
 

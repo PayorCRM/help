@@ -8,7 +8,7 @@
 
 
 
-**Steps to setup Statement rules **
+**Steps to setup Statement rules**&#x20;
 
 For Eg : To setup statement Rule to send statements to **all customers** with invoices that are **due from the last 300 days** on the **1st day of the month**
 

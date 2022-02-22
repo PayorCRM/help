@@ -35,7 +35,6 @@
 * [Manual Collections](manual-collections/README.md)
   * [Adding Collection Notes](manual-collections/adding-collection-notes.md)
   * [Allocating follow up tasks manually](manual-collections/allocate-follow-up-tasks-manually.md)
-  * [Allocating follow up tasks automatically](manual-collections/allocate-follow-up-tasks-automatically.md)
 * [API integration](api-integration.md)
 * [How customers pay you](how-customers-pay/README.md)
   * [From within email using saved card/bank acct](how-customers-pay/from-within-email.md)
@@ -50,4 +49,3 @@
 ## FAQ
 
 * [Email Payment Link Errors](faq/payment-errors.md)
-

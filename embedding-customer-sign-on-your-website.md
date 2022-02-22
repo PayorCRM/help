@@ -2,7 +2,7 @@
 
 ****
 
-You can get your Customer portal login link from** settings -> General Settings** as shown in the image below
+You can get your Customer portal login link from **settings -> General Settings** as shown in the image below
 
 ![](.gitbook/assets/customer-portal.PNG)
 

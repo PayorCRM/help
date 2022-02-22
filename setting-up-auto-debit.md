@@ -39,7 +39,7 @@ You have the following options to choose from
 {% hint style="info" %}
 Tip - If you want all the invoices to be autopaid whenever it is created you can the set the value in "Charge on" as below
 
-Charge on  _3000  _days _before_ due date
+Charge on  _3000_  days _before_ due date
 
 Since the invoices usually have "due days" \[no of days between current date and the due date] less than 3000  , They are considered for Auto Payments automatically on the day they are created.
 {% endhint %}

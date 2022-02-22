@@ -24,7 +24,7 @@ PayorCRM supports the following dynamic fields
 
 You can add the dynamic fields at any given location in the mail template body.
 
-**Step 1  **- Click on the text block where you would like to add a dynamic variable
+**Step 1**  - Click on the text block where you would like to add a dynamic variable
 
 ![](<../.gitbook/assets/image (26).png>)
 

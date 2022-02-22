@@ -14,7 +14,7 @@ Add rule - Adds a single rule ( for eg: Invoice overdue by 10 days)
 
 Add group - Allows you to add a rule group containing multiple rules within
 
-**A Single Rule (3)  **- A single mathematical rule ( for e.g. Amount > 100 )
+**A Single Rule (3)**  - A single mathematical rule ( for e.g. Amount > 100 )
 
 Item 3 shows an example of a rule added in the rule creator ( invoice amount greater than 1000)
 

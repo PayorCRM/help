@@ -14,7 +14,7 @@ To add an invite link to invoice reminders&#x20;
 
 ![](<../.gitbook/assets/image (26).png>)
 
-3\. Click on the button **Merge tag **
+3\. Click on the button **Merge tag**&#x20;
 
 ![](../.gitbook/assets/merge-tags-email-reminder.png)
 

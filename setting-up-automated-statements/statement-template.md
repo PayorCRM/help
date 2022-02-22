@@ -13,15 +13,15 @@
 
 ```
 
-**Total invoice amount **- The total invoice amount in the statement pdf will be added in place of this dynamic variable
+**Total invoice amount** - The total invoice amount in the statement pdf will be added in place of this dynamic variable
 
 **Customer company name** - The company name as provided in the customer table will be added to the statement email in place of this dynamic variable
 
-**Login register **- The login register button to register or login to the portal will be added in place of this dynamic variable
+**Login register** - The login register button to register or login to the portal will be added in place of this dynamic variable
 
 ![](../.gitbook/assets/login-or-register.PNG)
 
-**Statement summary **- The following summary will be added in place of this dynamic variable
+**Statement summary** - The following summary will be added in place of this dynamic variable
 
 ![](../.gitbook/assets/statement-summary.PNG)
 

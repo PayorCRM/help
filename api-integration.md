@@ -8,7 +8,7 @@ Copy the above credentials to make API calls with PayorCRM endpoints
 
 ## Authorization
 
-Use obtained **API Key **and **API Secret **in header as **api\_key **and **api\_secret. **
+Use obtained **API Key** and **API Secret** in header as **api\_key** and **api\_secret.**&#x20;
 
 For Example:
 
@@ -145,7 +145,7 @@ An example Invoice payload body would be
 
 ### 2. Uploading Customers List
 
-To upload customers list use endpoint **/jsonApi/upload/customers **and send post request containing array of **Customers**
+To upload customers list use endpoint **/jsonApi/upload/customers** and send post request containing array of **Customers**
 
 For Example
 
