@@ -27,13 +27,3 @@
 
 
 
-
-
-{% hint style="info" %}
-Please note that the below 2 dynamic fields are not supported in a statement reminder email . They will be replaced by blanks if added to a statement automation email template
-
-```
-{{payment_buttons}}
-{{invoice_list}}
-```
-{% endhint %}
