@@ -9,6 +9,9 @@ To be able to connect to QuickBooks Desktop you may need to complete the followi
 
 
 * To create an account with us that can be linked to your QB Desktop account , Please reach out to us by using the the link [https://www.payorcrm.com/pricing/](https://www.payorcrm.com/pricing/)
+
+Once an account has been created by us, Follow the below steps to sync data to the application
+
 * Click the "Settings" menu on the left pane after logging in
 * Under the "General settings" tab click on the "Download QWC file" button to download the connector file required for Desktop connection
 
