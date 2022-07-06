@@ -2,9 +2,11 @@
 
 PayorCRM provides absolute flexibility to customize your emails using the email template editor.
 
+Click on "**Invoice reminder**" on the left pane -> Click on "**Email Templates**" in the sub-menu&#x20;
+
 ![](<../.gitbook/assets/image (28).png>)
 
-Click on **Create/Edit Template** to open the email editor.&#x20;
+Click on **Create/Edit Template** to open the email template editor to edit the email template body.
 
 ![](<../.gitbook/assets/image (34).png>)
 
@@ -22,11 +24,11 @@ PayorCRM supports the following dynamic fields
 * Customer company name - Company name as defined in the Customer list
 * Total amount  - Total due amount&#x20;
 * Payment buttons - Payment buttons that will help your customer pay you from right within the email .See details here - [https://help.payorcrm.com/how-customers-pay.html](https://help.payorcrm.com/how-customers-pay.html)
-* Pay with credit card button - This merge tag will display only the "pay with credit card option"
-* Pay with bank account button - This merge tag will display only the "pay with bank account option"
-* Login Register button - This dynamic variable will be replaced with a login register button which your customer can use to sign up / sign in to your customer portal
+* Pay with credit card only button - This merge tag will add the "pay with credit card option" when a reminder email is sent
+* Pay with bank account only button - This merge tag will add the "pay with bank account option" when a reminder email is sent
+* Login Register button - This merge tag will be replaced with a login register button which your customer can use to sign up / sign in to your customer portal
 
-Please note that the dynamic fields can be added any given location in the email template body. To add the above dynamic fields to your email template follow the below steps.
+Please note that the dynamic fields can be added on any part of the email template. To add the above dynamic fields to your email template follow the below steps.
 
 **Step 1**  - Click on the text block where you would like to add a dynamic variable
 
