@@ -14,15 +14,19 @@ Email template editor allows you to add dynamic templates that are replaced with
 
 PayorCRM supports the following dynamic fields
 
-* First name - The first name as defined in your customer list
-* Last name - The last name as defined in your customer list
-* Invoice list - List of unpaid invoices that are defined in the email rules section
-* Customer Company Name - Company name as defined in the Customer list
+* First name - The first name as defined in your customer data
+* Last name - The last name as defined in your customer data
+* Invoice list - List of unpaid invoices that are due/overdue will be displayed within the body of the email
+* Statement summary pdf - List of invoices that are due/overdue will be attached as a pdf document along with the email
+* Individual invoice pdf - The unpaid invoices will be attached as individual pdfs along with the email.&#x20;
+* Customer company name - Company name as defined in the Customer list
 * Total amount  - Total due amount&#x20;
 * Payment buttons - Payment buttons that will help your customer pay you from right within the email .See details here - [https://help.payorcrm.com/how-customers-pay.html](https://help.payorcrm.com/how-customers-pay.html)
+* Pay with credit card button - This merge tag will display only the "pay with credit card option"
+* Pay with bank account button - This merge tag will display only the "pay with bank account option"
 * Login Register button - This dynamic variable will be replaced with a login register button which your customer can use to sign up / sign in to your customer portal
 
-You can add the dynamic fields at any given location in the mail template body.
+Please note that the dynamic fields can be added any given location in the email template body. To add the above dynamic fields to your email template follow the below steps.
 
 **Step 1**  - Click on the text block where you would like to add a dynamic variable
 
