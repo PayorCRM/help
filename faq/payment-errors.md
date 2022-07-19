@@ -4,7 +4,7 @@
 
 Confirmation links are **one time use** links .&#x20;
 
-You may regenerate the confirmation link by clicking on the "Pay with XXXX buttons" in the initial reminder email after one minute
+To retry, You may regenerate a new confirmation link by clicking on the "Pay with XXXX buttons" in the initial reminder email after one minute
 
 ## Invoice paid /Payment already made
 
