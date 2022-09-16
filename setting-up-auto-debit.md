@@ -34,7 +34,7 @@ You have the following options to choose from
 
 
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 {% hint style="info" %}
 Tip - If you want all the invoices to be autopaid whenever it is created you can the set the value in "Charge on" as below
