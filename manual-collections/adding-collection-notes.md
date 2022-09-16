@@ -2,20 +2,16 @@
 
 The below steps shows how to add collection notes against a customer so that you and your team can collaborate better when following up customers for payments
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. Click on "Collect Menu"
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-&#x20; 2\. Select the Customer you would like to add notes against or search for the customer you would like to add notes against
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-![](../.gitbook/assets/selectmanualcollections\_select-customer.png)
-
-3\. Click on Notes tab to view / add notes
-
-![](../.gitbook/assets/selectmanualcollections\_select-customer\_viewnotes.png)
-
-
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Note : At the end of the day all the notes added on that particular day are sent to email addresses of all users within your company who has access to the application
