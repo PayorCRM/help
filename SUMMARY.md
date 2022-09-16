@@ -33,6 +33,7 @@
   * [Inviting customers automatically](inviting-customers-to-the-portal/inviting-customers-automatically.md)
   * [Inviting customers manually](inviting-customers-to-the-portal/steps-to-invite-customers.md)
 * [Manual Collections](manual-collections/README.md)
+  * [Share files with your customer](manual-collections/share-files-with-your-customer.md)
   * [Adding Collection Notes](manual-collections/adding-collection-notes.md)
   * [Allocating follow up tasks manually](manual-collections/allocate-follow-up-tasks-manually.md)
 * [API integration](api-integration.md)

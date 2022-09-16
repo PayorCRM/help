@@ -21,7 +21,7 @@ Step 3 : Select to which email id the invite should be sent . You can either cho
 
 _Tip : You may use the "Another Email ID" option to provide your own email id so that you can receive the credentials in your Email Id to test out the service by logging in as a customer._
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 Step 4: Once you click on Send Invitation . You will get a confirmation that the invitations have been sent.All your customers will get an invite with the credentials and the link to login to the portal.
 
@@ -41,7 +41,7 @@ To invite all customers , Click on "Invite all customers" button and follow the 
 
 ![Click on this button to invite all customers](<../.gitbook/assets/image (33).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Please note that sending invites to more than a 1000 customers may take upto 2 hours. The "Has login " column may take time to update in that case even if the application may confirm that invites may have been sent . Please refrain from inviting using "Invite All Button" again until after a few hours.
 

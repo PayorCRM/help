@@ -18,7 +18,7 @@ To accept credit card payments through Authorize.net , Please ensure that Custom
 
 To enable Customer Information Manager (CIM) service:
 
-1. Log into your Merchant Interface at [https://account.authorize.net](https://account.authorize.net).
+1. Log into your Merchant Interface at [https://account.authorize.net](https://account.authorize.net/).
 2. Click **Customer Information Manager** in the main left side menu.
 3. Click **Sign up for Customer Information Manager (CIM) Now**.
 4. Click the checkbox labeled **I have read and understand the Terms of Service**.
