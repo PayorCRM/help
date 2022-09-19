@@ -1,16 +1,6 @@
 # Setting up Authorize.Net
 
-Authorize.Net allows you to choose between its merchant account + payment gateway plan or its [Payment Gateway only](https://www.authorize.net/solutions/merchantsolutions/pricing/?p=gwo)  plan.
 
-Please reach out to us @ solutions@payorcrm.com to help you with the above if you are not sure which one would be the best for you.
-
-### Choosing Authorize.Net <a href="#choosing-authorize-net" id="choosing-authorize-net"></a>
-
-Consider the following factors before choosing Authorize.Net as a payment solution:
-
-* **Countries :** Authorize.Net is currently available for companies based in the United States of America, Canada, the United Kingdom, Europe, and Australia.
-* **Payment Methods:** Authorize.Net supports almost all major credit and debit cards such as Visa, MasterCard, American Express, Discover, Diner's Club, JCB, and so on.
-* **Pricing:** Authorize.Net has service fees which include, setup, monthly and per-transaction fees. [More details about pricing here.](https://www.authorize.net/solutions/merchantsolutions/pricing/)&#x20;
 
 **Credit Card Payments**
 
