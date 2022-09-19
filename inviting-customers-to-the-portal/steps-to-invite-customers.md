@@ -41,7 +41,7 @@ To invite all customers , Click on "Invite all customers" button and follow the 
 
 ![Click on this button to invite all customers](<../.gitbook/assets/image (33).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Please note that sending invites to more than a 1000 customers may take upto 2 hours. The "Has login " column may take time to update in that case even if the application may confirm that invites may have been sent . Please refrain from inviting using "Invite All Button" again until after a few hours.
 
