@@ -4,7 +4,7 @@ If you have a QuickBooks Payments account (QuickBooks Merchant Services account 
 
 **Step 1 :** To enable QuickBooks payments on PayorCRM go to the settings menu -> General settings
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 **Step 2 :**  Click on the "Enable QuickBooks Payments" button
 

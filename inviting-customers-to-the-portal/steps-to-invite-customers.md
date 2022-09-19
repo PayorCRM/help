@@ -4,7 +4,7 @@
 
 Step 1 : Select the customers you would like to invite and click on "Invite selected customers" button
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 Step 2 : Selecting the credentials pattern
 
