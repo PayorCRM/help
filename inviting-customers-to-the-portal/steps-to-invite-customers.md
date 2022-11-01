@@ -21,7 +21,7 @@ Step 3 : Select to which email id the invite should be sent . You can either cho
 
 _Tip : You may use the "Another Email ID" option to provide your own email id so that you can receive the credentials in your Email Id to test out the service by logging in as a customer._
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 Step 4: Once you click on Send Invitation . You will get a confirmation that the invitations have been sent.All your customers will get an invite with the credentials and the link to login to the portal.
 

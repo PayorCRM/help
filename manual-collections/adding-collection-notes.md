@@ -12,6 +12,6 @@ The below steps shows how to add collection notes against a customer so that you
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 Note : At the end of the day all the notes added on that particular day are sent to email addresses of all users within your company who has access to the application
