@@ -21,9 +21,9 @@ Note - Please ensure that the correct company file that needs to be synced is op
 
 
 
-Deletions of invoice are not synced to PayorCRM due to limitation of QB Desktop sync. There are two ways to go about this
+Deletions of invoice are not synced to PayorCRM due to limitations in QB Desktop sync API's. There are two ways to go about this
 
-**Void invoices on QB Desktop instead of deleting (recommended)**
+**Void invoices on QB Desktop instead of deleting the invoice (recommended)**
 
 When an invoice is voided on QBD, The invoice amount as well as the due amount of the invoice is changed to $0. The invoice will then be automatically voided in PayorCRM system during the next sync
 
