@@ -10,7 +10,7 @@ Add the customer portal link on your website as shown below.&#x20;
 
 Sample branded customer portal login link - [Click here](https://app.payorcrm.com/#!/Customerlogin/5aa8122f4e5cdcf256ac02ef)
 
-![](<.gitbook/assets/image (5) (2).png>)
+![](<.gitbook/assets/image (5) (2) (1).png>)
 
 ![](.gitbook/assets/dnjhmgmv4aaax4a.jpg)
 

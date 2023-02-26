@@ -10,7 +10,7 @@ PayorCRM app allows you to quickly send email reminders to your customers manual
 
 
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 
 
