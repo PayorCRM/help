@@ -1,6 +1,6 @@
 # Branded Customer portal
 
-****
+
 
 You can get your Customer portal login link from **settings -> General Settings** as shown in the image below
 

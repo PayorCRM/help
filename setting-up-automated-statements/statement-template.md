@@ -2,7 +2,7 @@
 
 **Supported dynamic fields - Statement automation**
 
-****
+
 
 ```
 {{first_name}} 

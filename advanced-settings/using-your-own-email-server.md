@@ -12,6 +12,6 @@ The following list provides the various configuration parameters to enable this 
 
 
 
-    ****
+
 
 ![](../.gitbook/assets/smtp-settingspng.png)

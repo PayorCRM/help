@@ -1,10 +1,10 @@
 # Email Payment Link Errors
 
-## Token has expired/Token Error/Invalid Token
+## Invalid Token
 
-Confirmation links are **one time use** links .&#x20;
+The Confirmation link has been used once recently. The link can only be used after 5 minutes.
 
-To retry, You may regenerate a new confirmation link by clicking on the "Pay with XXXX buttons" in the initial reminder email after one minute
+
 
 ## Invoice paid /Payment already made
 
