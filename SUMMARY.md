@@ -36,6 +36,7 @@
     * [Invite customer using self registration link](inviting-customers-to-the-portal/steps-to-invite-customers/invite-customer-using-self-registration-link.md)
   * [Multi customer account access](inviting-customers-to-the-portal/multi-customer-account-access.md)
 * [Manual Collections](manual-collections/README.md)
+  * [Track Invoice opens/Email opens](manual-collections/track-invoice-opens-email-opens.md)
   * [Adding Collection Notes](manual-collections/adding-collection-notes.md)
   * [Share files with your customer](manual-collections/share-files-with-your-customer/README.md)
     * [Link Shared files to invoice](manual-collections/share-files-with-your-customer/link-shared-files-to-invoice.md)
