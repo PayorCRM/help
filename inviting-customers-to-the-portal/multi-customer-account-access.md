@@ -7,4 +7,4 @@ description: >-
 
 # Multi customer account access
 
-<figure><img src="../.gitbook/assets/customer access.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/customer access (1).png" alt=""><figcaption></figcaption></figure>
