@@ -8,3 +8,11 @@ description: >-
 # Multi customer account access
 
 <figure><img src="../.gitbook/assets/customer access (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Customers can switch between multiple accounts through the customer portal as shown below
+
+
+
+<figure><img src="../.gitbook/assets/switch accounts customer portal.png" alt=""><figcaption></figcaption></figure>
