@@ -1,4 +1,4 @@
-# Obtain Consumer Key
+# Obtain Consumer Key and secret
 
 
 
