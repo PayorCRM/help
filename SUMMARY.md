@@ -9,7 +9,7 @@
     * [FAQ - QB Desktop Setup/Sync](connecting-to-qb-desktoponline/quickbooks-desktop/faq-qb-desktop-setup-sync.md)
     * [Switch off](connecting-to-qb-desktoponline/quickbooks-desktop/switch-off.md)
   * [Netsuite](connecting-to-qb-desktoponline/netsuite.md)
-    * [Obtain Consumer Key](connecting-to-qb-desktoponline/netsuite/obtain-consumer-key.md)
+    * [Obtain Consumer Key and secret](connecting-to-qb-desktoponline/netsuite/obtain-consumer-key-and-secret.md)
     * [Obtain Token key and secret](connecting-to-qb-desktoponline/netsuite/obtain-token-key-and-secret.md)
     * [Add Restlet code to Netsuite](connecting-to-qb-desktoponline/netsuite/add-restlet-code-to-netsuite.md)
   * [Other accounting software](connecting-to-qb-desktoponline/other-accounting-software.md)
