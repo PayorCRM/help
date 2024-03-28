@@ -11,7 +11,7 @@
   * [Netsuite](connecting-to-qb-desktoponline/netsuite.md)
     * [Obtain Consumer Key and secret](connecting-to-qb-desktoponline/netsuite/obtain-consumer-key.md)
     * [Obtain Token key and secret](connecting-to-qb-desktoponline/netsuite/obtain-token-key-and-secret.md)
-    * [Add Restlet code to Netsuite](connecting-to-qb-desktoponline/netsuite/add-restlet-code-to-netsuite.md)
+    * [Add PDF generation Restlet code to Netsuite](connecting-to-qb-desktoponline/netsuite/add-pdf-generation-restlet-code-to-netsuite.md)
     * [Optional Settings](connecting-to-qb-desktoponline/netsuite/optional-settings/README.md)
       * [CC Processing fees sync](connecting-to-qb-desktoponline/netsuite/optional-settings/cc-processing-fees-sync.md)
   * [Other accounting software](connecting-to-qb-desktoponline/other-accounting-software.md)
