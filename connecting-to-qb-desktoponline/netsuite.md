@@ -1,6 +1,6 @@
 # Netsuite
 
-To integrate PayorCRM with your Netsuite instance with PayorCRM, We will need the following information
+To integrate PayorCRM with your Netsuite instance, We will need the following information
 
 * Consumer Key and secret
 * Token Key and secret
