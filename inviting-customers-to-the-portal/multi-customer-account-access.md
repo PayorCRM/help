@@ -11,7 +11,9 @@ description: >-
 
 
 
-Customers can switch between multiple accounts through the customer portal as shown below
+### Customer portal view
+
+The Customer can switch between multiple accounts through the customer portal using the "Switch account" drop-down as shown below
 
 
 
