@@ -1,6 +1,8 @@
-# Add Restlet code to Netsuite
+# Add PDF generation Restlet code to Netsuite
 
-Download the below Restlet code (Right click -> Save link as) and follow the steps given below
+Download the below Restlet code (Right click -> Save link as) and follow the steps given below.&#x20;
+
+The Restlet code allows Invoice PDFs to be shared with customers through PDF download links on the application.
 
 [https://www.payorcrm.com/wp-content/uploads/2024/03/getInvoicePdf.js](https://www.payorcrm.com/wp-content/uploads/2024/03/getInvoicePdf.js)
 
