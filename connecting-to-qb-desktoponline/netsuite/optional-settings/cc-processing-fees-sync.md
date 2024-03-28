@@ -4,7 +4,7 @@ Follow the below steps to add a "processing fees" item in Netsuite. Ensure that 
 
 <figure><img src="../../../.gitbook/assets/setup processing fees item (1).png" alt=""><figcaption></figcaption></figure>
 
-The item ID listed in the URL (see below) in the URL needs to be provided to allow CC surcharges to be synced back to Netsuite
+The item ID listed in the URL (see below highlighted) needs to be added to the application to allow "CC processing fees" to be synced back to Netsuite
 
 <figure><img src="../../../.gitbook/assets/Item id link.png" alt=""><figcaption></figcaption></figure>
 
