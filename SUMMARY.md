@@ -7,7 +7,6 @@
   * [QuickBooks Desktop](connecting-to-qb-desktoponline/quickbooks-desktop/README.md)
     * [Data sync](connecting-to-qb-desktoponline/quickbooks-desktop/data-sync.md)
     * [FAQ - QB Desktop Setup/Sync](connecting-to-qb-desktoponline/quickbooks-desktop/faq-qb-desktop-setup-sync.md)
-    * [Switch off](connecting-to-qb-desktoponline/quickbooks-desktop/switch-off.md)
   * [Netsuite](connecting-to-qb-desktoponline/netsuite.md)
     * [Obtain Consumer Key and secret](connecting-to-qb-desktoponline/netsuite/obtain-consumer-key.md)
     * [Obtain Token key and secret](connecting-to-qb-desktoponline/netsuite/obtain-token-key-and-secret.md)
