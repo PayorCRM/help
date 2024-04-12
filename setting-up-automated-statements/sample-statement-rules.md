@@ -6,6 +6,10 @@
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-12 100834.png" alt=""><figcaption></figcaption></figure>
 
-2. **Send statements on Monday every week to Customers categorised as "Cat1". Include invoices that are overdue by up to 300 days or due in the next 30 days**
+**2.Send statements on Monday every week to Customers categorised as "Cat1". Include invoices that are overdue by up to 300 days or due in the next 30 days**
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-12 101148.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Send all invoices which has never been emailed to the customer and are due in 30 days
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-12 121624.png" alt=""><figcaption></figcaption></figure>
