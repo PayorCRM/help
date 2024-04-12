@@ -10,6 +10,6 @@
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-12 101148.png" alt=""><figcaption></figcaption></figure>
 
-#### 3. Send all invoices which has never been emailed to the customer and are due in 30 days
+#### 3. Send (daily) all invoices which has never been emailed to the customer and are due in 30 days
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-12 121624.png" alt=""><figcaption></figcaption></figure>
