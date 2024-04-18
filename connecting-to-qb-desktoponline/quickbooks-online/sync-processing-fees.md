@@ -17,3 +17,10 @@ The feature is not enabled for older accounts by default. Reach out to support@p
 &#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption><p>On QB generated invoice, The processing fee item appears as above after the sync</p></figcaption></figure>
+
