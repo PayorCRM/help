@@ -4,6 +4,7 @@
 * [Connecting PayorCRM to your Accounting Software](connecting-to-qb-desktoponline/README.md)
   * [QuickBooks Online](connecting-to-qb-desktoponline/quickbooks-online/README.md)
     * [Data sync](connecting-to-qb-desktoponline/quickbooks-online/data-sync.md)
+    * [Sync Processing fees](connecting-to-qb-desktoponline/quickbooks-online/sync-processing-fees.md)
   * [QuickBooks Desktop](connecting-to-qb-desktoponline/quickbooks-desktop/README.md)
     * [Data sync](connecting-to-qb-desktoponline/quickbooks-desktop/data-sync.md)
     * [FAQ - QB Desktop Setup/Sync](connecting-to-qb-desktoponline/quickbooks-desktop/faq-qb-desktop-setup-sync.md)
