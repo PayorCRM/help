@@ -1,6 +1,6 @@
 # Sync Processing fees
 
-To sync processing fees, Create a service item called "Processing fees" within QB Online by following the steps below
+To add processing fees as an item to invoices paid using Cards, Create a service item called "Processing fees" within QB Online by following the steps below
 
 1. Within QuickBooks, Click on "Sales" menu
 2. Go to "Product/Services" tab. Click on "New" button and select "Non-Inventory" item
